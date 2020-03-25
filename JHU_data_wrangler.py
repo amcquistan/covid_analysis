@@ -369,7 +369,7 @@ for k, location_data in location_groups:
 with open('locations.json', 'w') as fo:
     json.dump(locations, fo, indent=4)
 
-get_ipython().system('head -n 15 locations.json')
+#!head -n 15 locations.json
 
 
 # In[ ]:
