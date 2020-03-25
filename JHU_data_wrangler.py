@@ -39,7 +39,8 @@ confirmed_series_file
 
 
 # show first 10 rows of time_series_19-covid-Confirmed.csv file
-get_ipython().system("awk -F, '{print $1,$2,$3,$4} NR==10{exit}' OFS=', ' COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
+#!awk -F, '{print $1,$2,$3,$4} NR==10{exit}' OFS=', ' \
+# COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv
 
 
 # In[36]:
@@ -147,7 +148,7 @@ os.path.join(confirmed_series_dir, daily_csv_files[0])
 # In[44]:
 
 
-get_ipython().system('head ./COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/02-26-2020.csv')
+#!head ./COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/02-26-2020.csv
 
 
 # In[45]:
