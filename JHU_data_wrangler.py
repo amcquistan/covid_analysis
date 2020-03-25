@@ -109,6 +109,12 @@ locations_df['cloud_resource'] = [cloud_resource_url(filename, bucket_name)
 locations_df.head()
 
 
+# In[60]:
+
+
+locations_df.country_region.unique()
+
+
 # In[40]:
 
 
@@ -138,11 +144,11 @@ daily_csv_files = [file_name
 daily_csv_files[:5]
 
 
-# In[43]:
+# In[61]:
 
 
 # take a peek at the structure of a file that will be worked with
-os.path.join(confirmed_series_dir, daily_csv_files[0])
+os.path.join(confirmed_series_dir, daily_csv_files[-1])
 
 
 # In[44]:
@@ -181,27 +187,35 @@ for file_name in daily_csv_files:
     # Province_State and Country_Region replaced column names Province/State
     # and Country/Region for new daily files starting 03-24-2020
     day_df = day_df.rename(columns={
-        'Province/State': 'province_state',
-        'Province_State': 'province_state', 
-        'Country/Region': 'country_region',
-        'Country_Region': 'country_region',
-        'Confirmed': 'total_confirmed',
-        'Deaths':'total_deaths',
-        'Recovered': 'total_recovered'
-    })
+            'Province/State': 'province_state',
+            'Province_State': 'province_state', 
+            'Country/Region': 'country_region',
+            'Country_Region': 'country_region',
+            'Confirmed': 'total_confirmed',
+            'Deaths':'total_deaths',
+            'Recovered': 'total_recovered'
+        })
     
     date_str, ext = os.path.splitext(file_name)
     num_rows = day_df.shape[0]
     day_df['date'] = [pd.to_datetime(date_str)] * num_rows
-    
+
+    # Fill NaNs with empty strings because this data will
+    # be serialized into JSON which does not support NaN
+    day_df.province_state = day_df.province_state.fillna('')
+    day_df.total_confirmed = day_df.total_confirmed.fillna(0)
+    day_df.total_deaths = day_df.total_deaths.fillna(0)
+    day_df.total_recovered = day_df.total_recovered.fillna(0)
+
     missing_columns = sum([(col not in day_df.columns) for col in colunns_of_interest])
     if missing_columns:
         import pdb; pdb.set_trace()
         sys.exit(0)
-        
+
+    day_df = day_df[colunns_of_interest]
+
     # increased granularity by neighborhood was added in Admin2 column 03-24-2020
     # but only want granularity down to province_region so collapse down and aggregate
-    day_df = day_df[colunns_of_interest]
     day_df = day_df.groupby(['country_region', 'province_state', 'date']).sum()
     day_df = day_df.reset_index()
     
@@ -209,12 +223,6 @@ for file_name in daily_csv_files:
     
 daily_df = pd.concat(daily_dfs)
 
-# Fill NaNs with empty strings because this data will
-# be serialized into JSON which does not support NaN
-daily_df.province_state = daily_df.province_state.fillna('')
-daily_df.total_confirmed = daily_df.total_confirmed.fillna(0)
-daily_df.total_deaths = daily_df.total_deaths.fillna(0)
-daily_df.total_recovered = daily_df.total_recovered.fillna(0)
 
 # make sure text columns are well cleaned and stripped of whitespace
 daily_df.province_state = daily_df.province_state.str.strip()
