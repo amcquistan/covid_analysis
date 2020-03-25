@@ -1,0 +1,475 @@
+,province_state,country_region,lat,long,filename,cloud_resource
+0,,Thailand,15.0,101.0,thailand,https://thecodinginterface-covid.s3.amazonaws.com/thailand.json
+1,,Japan,36.0,138.0,japan,https://thecodinginterface-covid.s3.amazonaws.com/japan.json
+2,,Singapore,1.2833,103.8333,singapore,https://thecodinginterface-covid.s3.amazonaws.com/singapore.json
+3,,Nepal,28.1667,84.25,nepal,https://thecodinginterface-covid.s3.amazonaws.com/nepal.json
+4,,Malaysia,2.5,112.5,malaysia,https://thecodinginterface-covid.s3.amazonaws.com/malaysia.json
+5,British Columbia,Canada,49.2827,-123.1207,canada-british-columbia,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+6,New South Wales,Australia,-33.8688,151.2093,australia-new-south-wales,https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json
+7,Victoria,Australia,-37.8136,144.9631,australia-victoria,https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json
+8,Queensland,Australia,-28.0167,153.4,australia-queensland,https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json
+9,,Cambodia,11.55,104.9167,cambodia,https://thecodinginterface-covid.s3.amazonaws.com/cambodia.json
+10,,Sri Lanka,7.0,81.0,sri-lanka,https://thecodinginterface-covid.s3.amazonaws.com/sri-lanka.json
+11,,Germany,51.0,9.0,germany,https://thecodinginterface-covid.s3.amazonaws.com/germany.json
+12,,Finland,64.0,26.0,finland,https://thecodinginterface-covid.s3.amazonaws.com/finland.json
+13,,United Arab Emirates,24.0,54.0,united-arab-emirates,https://thecodinginterface-covid.s3.amazonaws.com/united-arab-emirates.json
+14,,Philippines,13.0,122.0,philippines,https://thecodinginterface-covid.s3.amazonaws.com/philippines.json
+15,,India,21.0,78.0,india,https://thecodinginterface-covid.s3.amazonaws.com/india.json
+16,,Italy,43.0,12.0,italy,https://thecodinginterface-covid.s3.amazonaws.com/italy.json
+17,,Sweden,63.0,16.0,sweden,https://thecodinginterface-covid.s3.amazonaws.com/sweden.json
+18,,Spain,40.0,-4.0,spain,https://thecodinginterface-covid.s3.amazonaws.com/spain.json
+19,South Australia,Australia,-34.9285,138.6007,australia-south-australia,https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json
+20,,Belgium,50.8333,4.0,belgium,https://thecodinginterface-covid.s3.amazonaws.com/belgium.json
+21,,Egypt,26.0,30.0,egypt,https://thecodinginterface-covid.s3.amazonaws.com/egypt.json
+22,From Diamond Princess,Australia,35.4437,139.638,australia-from-diamond-princess,https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json
+23,,Lebanon,33.8547,35.8623,lebanon,https://thecodinginterface-covid.s3.amazonaws.com/lebanon.json
+24,,Iraq,33.0,44.0,iraq,https://thecodinginterface-covid.s3.amazonaws.com/iraq.json
+25,,Oman,21.0,57.0,oman,https://thecodinginterface-covid.s3.amazonaws.com/oman.json
+26,,Afghanistan,33.0,65.0,afghanistan,https://thecodinginterface-covid.s3.amazonaws.com/afghanistan.json
+27,,Bahrain,26.0275,50.55,bahrain,https://thecodinginterface-covid.s3.amazonaws.com/bahrain.json
+28,,Kuwait,29.5,47.75,kuwait,https://thecodinginterface-covid.s3.amazonaws.com/kuwait.json
+29,,Algeria,28.0339,1.6596,algeria,https://thecodinginterface-covid.s3.amazonaws.com/algeria.json
+30,,Croatia,45.1,15.2,croatia,https://thecodinginterface-covid.s3.amazonaws.com/croatia.json
+31,,Switzerland,46.8182,8.2275,switzerland,https://thecodinginterface-covid.s3.amazonaws.com/switzerland.json
+32,,Austria,47.5162,14.5501,austria,https://thecodinginterface-covid.s3.amazonaws.com/austria.json
+33,,Israel,31.0,35.0,israel,https://thecodinginterface-covid.s3.amazonaws.com/israel.json
+34,,Pakistan,30.3753,69.3451,pakistan,https://thecodinginterface-covid.s3.amazonaws.com/pakistan.json
+35,,Brazil,-14.235,-51.9253,brazil,https://thecodinginterface-covid.s3.amazonaws.com/brazil.json
+36,,Georgia,42.3154,43.3569,georgia,https://thecodinginterface-covid.s3.amazonaws.com/georgia.json
+37,,Greece,39.0742,21.8243,greece,https://thecodinginterface-covid.s3.amazonaws.com/greece.json
+38,,North Macedonia,41.6086,21.7453,north-macedonia,https://thecodinginterface-covid.s3.amazonaws.com/north-macedonia.json
+39,,Norway,60.472,8.4689,norway,https://thecodinginterface-covid.s3.amazonaws.com/norway.json
+40,,Romania,45.9432,24.9668,romania,https://thecodinginterface-covid.s3.amazonaws.com/romania.json
+41,,Estonia,58.5953,25.0136,estonia,https://thecodinginterface-covid.s3.amazonaws.com/estonia.json
+42,,San Marino,43.9424,12.4578,san-marino,https://thecodinginterface-covid.s3.amazonaws.com/san-marino.json
+43,,Belarus,53.7098,27.9534,belarus,https://thecodinginterface-covid.s3.amazonaws.com/belarus.json
+44,,Iceland,64.9631,-19.0208,iceland,https://thecodinginterface-covid.s3.amazonaws.com/iceland.json
+45,,Lithuania,55.1694,23.8813,lithuania,https://thecodinginterface-covid.s3.amazonaws.com/lithuania.json
+46,,Mexico,23.6345,-102.5528,mexico,https://thecodinginterface-covid.s3.amazonaws.com/mexico.json
+47,,New Zealand,-40.9006,174.886,new-zealand,https://thecodinginterface-covid.s3.amazonaws.com/new-zealand.json
+48,,Nigeria,9.082,8.6753,nigeria,https://thecodinginterface-covid.s3.amazonaws.com/nigeria.json
+49,Western Australia,Australia,-31.9505,115.8605,australia-western-australia,https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json
+50,,Ireland,53.1424,-7.6921,ireland,https://thecodinginterface-covid.s3.amazonaws.com/ireland.json
+51,,Luxembourg,49.8153,6.1296,luxembourg,https://thecodinginterface-covid.s3.amazonaws.com/luxembourg.json
+52,,Monaco,43.7333,7.4167,monaco,https://thecodinginterface-covid.s3.amazonaws.com/monaco.json
+53,,Qatar,25.3548,51.1839,qatar,https://thecodinginterface-covid.s3.amazonaws.com/qatar.json
+54,,Ecuador,-1.8312,-78.1834,ecuador,https://thecodinginterface-covid.s3.amazonaws.com/ecuador.json
+55,,Azerbaijan,40.1431,47.5769,azerbaijan,https://thecodinginterface-covid.s3.amazonaws.com/azerbaijan.json
+56,,Armenia,40.0691,45.0382,armenia,https://thecodinginterface-covid.s3.amazonaws.com/armenia.json
+57,,Dominican Republic,18.7357,-70.1627,dominican-republic,https://thecodinginterface-covid.s3.amazonaws.com/dominican-republic.json
+58,,Indonesia,-0.7893,113.9213,indonesia,https://thecodinginterface-covid.s3.amazonaws.com/indonesia.json
+59,,Portugal,39.3999,-8.2245,portugal,https://thecodinginterface-covid.s3.amazonaws.com/portugal.json
+60,,Andorra,42.5063,1.5218,andorra,https://thecodinginterface-covid.s3.amazonaws.com/andorra.json
+61,Tasmania,Australia,-41.4545,145.9707,australia-tasmania,https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json
+62,,Latvia,56.8796,24.6032,latvia,https://thecodinginterface-covid.s3.amazonaws.com/latvia.json
+63,,Morocco,31.7917,-7.0926,morocco,https://thecodinginterface-covid.s3.amazonaws.com/morocco.json
+64,,Saudi Arabia,24.0,45.0,saudi-arabia,https://thecodinginterface-covid.s3.amazonaws.com/saudi-arabia.json
+65,,Senegal,14.4974,-14.4524,senegal,https://thecodinginterface-covid.s3.amazonaws.com/senegal.json
+66,,Argentina,-38.4161,-63.6167,argentina,https://thecodinginterface-covid.s3.amazonaws.com/argentina.json
+67,,Chile,-35.6751,-71.543,chile,https://thecodinginterface-covid.s3.amazonaws.com/chile.json
+68,,Jordan,31.24,36.51,jordan,https://thecodinginterface-covid.s3.amazonaws.com/jordan.json
+69,,Ukraine,48.3794,31.1656,ukraine,https://thecodinginterface-covid.s3.amazonaws.com/ukraine.json
+70,,Hungary,47.1625,19.5033,hungary,https://thecodinginterface-covid.s3.amazonaws.com/hungary.json
+71,Northern Territory,Australia,-12.4634,130.8456,australia-northern-territory,https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json
+72,,Liechtenstein,47.14,9.55,liechtenstein,https://thecodinginterface-covid.s3.amazonaws.com/liechtenstein.json
+73,,Poland,51.9194,19.1451,poland,https://thecodinginterface-covid.s3.amazonaws.com/poland.json
+74,,Tunisia,34.0,9.0,tunisia,https://thecodinginterface-covid.s3.amazonaws.com/tunisia.json
+75,,Bosnia and Herzegovina,43.9159,17.6791,bosnia-and-herzegovina,https://thecodinginterface-covid.s3.amazonaws.com/bosnia-and-herzegovina.json
+76,,Slovenia,46.1512,14.9955,slovenia,https://thecodinginterface-covid.s3.amazonaws.com/slovenia.json
+77,,South Africa,-30.5595,22.9375,south-africa,https://thecodinginterface-covid.s3.amazonaws.com/south-africa.json
+78,,Bhutan,27.5142,90.4336,bhutan,https://thecodinginterface-covid.s3.amazonaws.com/bhutan.json
+79,,Cameroon,3.8480000000000003,11.5021,cameroon,https://thecodinginterface-covid.s3.amazonaws.com/cameroon.json
+80,,Colombia,4.5709,-74.2973,colombia,https://thecodinginterface-covid.s3.amazonaws.com/colombia.json
+81,,Costa Rica,9.7489,-83.7534,costa-rica,https://thecodinginterface-covid.s3.amazonaws.com/costa-rica.json
+82,,Peru,-9.19,-75.0152,peru,https://thecodinginterface-covid.s3.amazonaws.com/peru.json
+83,,Serbia,44.0165,21.0059,serbia,https://thecodinginterface-covid.s3.amazonaws.com/serbia.json
+84,,Slovakia,48.669,19.699,slovakia,https://thecodinginterface-covid.s3.amazonaws.com/slovakia.json
+85,,Togo,8.6195,0.8248,togo,https://thecodinginterface-covid.s3.amazonaws.com/togo.json
+86,,Malta,35.9375,14.3754,malta,https://thecodinginterface-covid.s3.amazonaws.com/malta.json
+87,,Martinique,14.6415,-61.0242,martinique,https://thecodinginterface-covid.s3.amazonaws.com/martinique.json
+88,,Bulgaria,42.7339,25.4858,bulgaria,https://thecodinginterface-covid.s3.amazonaws.com/bulgaria.json
+89,,Maldives,3.2028,73.2207,maldives,https://thecodinginterface-covid.s3.amazonaws.com/maldives.json
+90,,Bangladesh,23.685,90.3563,bangladesh,https://thecodinginterface-covid.s3.amazonaws.com/bangladesh.json
+91,,Paraguay,-23.4425,-58.4438,paraguay,https://thecodinginterface-covid.s3.amazonaws.com/paraguay.json
+92,Ontario,Canada,51.2538,-85.3232,canada-ontario,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+93,Alberta,Canada,53.9333,-116.5765,canada-alberta,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+94,Quebec,Canada,52.9399,-73.5491,canada-quebec,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+95,,Albania,41.1533,20.1683,albania,https://thecodinginterface-covid.s3.amazonaws.com/albania.json
+96,,Cyprus,35.1264,33.4299,cyprus,https://thecodinginterface-covid.s3.amazonaws.com/cyprus.json
+98,Washington,US,47.4009,-121.4905,us-washington,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+99,New York,US,42.1657,-74.9481,us-new-york,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+100,California,US,36.1162,-119.6816,us-california,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+101,Massachusetts,US,42.2302,-71.5301,us-massachusetts,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+102,Diamond Princess,US,35.4437,139.638,us-diamond-princess,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+103,Grand Princess,US,37.6489,-122.6655,us-grand-princess,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+104,Georgia,US,33.0406,-83.6431,us-georgia,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+105,Colorado,US,39.0598,-105.3111,us-colorado,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+106,Florida,US,27.7663,-81.6868,us-florida,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+107,New Jersey,US,40.2989,-74.521,us-new-jersey,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+108,Oregon,US,44.571999999999996,-122.0709,us-oregon,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+109,Texas,US,31.0545,-97.5635,us-texas,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+110,Illinois,US,40.3495,-88.9861,us-illinois,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+111,Pennsylvania,US,40.5908,-77.2098,us-pennsylvania,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+112,Iowa,US,42.0115,-93.2105,us-iowa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+113,Maryland,US,39.0639,-76.8021,us-maryland,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+114,North Carolina,US,35.6301,-79.8064,us-north-carolina,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+115,South Carolina,US,33.8569,-80.945,us-south-carolina,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+116,Tennessee,US,35.7478,-86.6923,us-tennessee,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+117,Virginia,US,37.7693,-78.17,us-virginia,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+118,Arizona,US,33.7298,-111.4312,us-arizona,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+119,Indiana,US,39.8494,-86.2583,us-indiana,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+120,Kentucky,US,37.6681,-84.6701,us-kentucky,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+121,District of Columbia,US,38.8974,-77.0268,us-district-of-columbia,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+122,Nevada,US,38.3135,-117.0554,us-nevada,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+123,New Hampshire,US,43.4525,-71.5639,us-new-hampshire,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+124,Minnesota,US,45.6945,-93.9002,us-minnesota,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+125,Nebraska,US,41.1254,-98.2681,us-nebraska,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+126,Ohio,US,40.3888,-82.7649,us-ohio,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+127,Rhode Island,US,41.6809,-71.5118,us-rhode-island,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+128,Wisconsin,US,44.2685,-89.6165,us-wisconsin,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+129,Connecticut,US,41.5978,-72.7554,us-connecticut,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+130,Hawaii,US,21.0943,-157.4983,us-hawaii,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+131,Oklahoma,US,35.5653,-96.9289,us-oklahoma,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+132,Utah,US,40.15,-111.8624,us-utah,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+133,,Burkina Faso,12.2383,-1.5616,burkina-faso,https://thecodinginterface-covid.s3.amazonaws.com/burkina-faso.json
+134,,Holy See,41.9029,12.4534,holy-see,https://thecodinginterface-covid.s3.amazonaws.com/holy-see.json
+135,,Mongolia,46.8625,103.8467,mongolia,https://thecodinginterface-covid.s3.amazonaws.com/mongolia.json
+136,,Panama,8.538,-80.7821,panama,https://thecodinginterface-covid.s3.amazonaws.com/panama.json
+137,Kansas,US,38.5266,-96.7265,us-kansas,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+138,Louisiana,US,31.1695,-91.8678,us-louisiana,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+139,Missouri,US,38.4561,-92.2884,us-missouri,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+140,Vermont,US,44.0459,-72.7107,us-vermont,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+141,Alaska,US,61.3707,-152.4044,us-alaska,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+142,Arkansas,US,34.9697,-92.3731,us-arkansas,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+143,Delaware,US,39.3185,-75.5071,us-delaware,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+144,Idaho,US,44.2405,-114.4788,us-idaho,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+145,Maine,US,44.6939,-69.3819,us-maine,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+146,Michigan,US,43.3266,-84.5361,us-michigan,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+147,Mississippi,US,32.7416,-89.6787,us-mississippi,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+148,Montana,US,46.9219,-110.4544,us-montana,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+149,New Mexico,US,34.8405,-106.2485,us-new-mexico,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+150,North Dakota,US,47.5289,-99.78399999999999,us-north-dakota,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+151,South Dakota,US,44.2998,-99.4388,us-south-dakota,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+152,West Virginia,US,38.4912,-80.9545,us-west-virginia,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+153,Wyoming,US,42.756,-107.3025,us-wyoming,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+154,Hubei,China,30.9756,112.2707,china-hubei,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+155,,Iran,32.0,53.0,iran,https://thecodinginterface-covid.s3.amazonaws.com/iran.json
+156,,"Korea, South",36.0,128.0,korea-south,https://thecodinginterface-covid.s3.amazonaws.com/korea-south.json
+157,France,France,46.2276,2.2137,france-france,https://thecodinginterface-covid.s3.amazonaws.com/france-france.json
+158,Guangdong,China,23.3417,113.4244,china-guangdong,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+159,Henan,China,33.882,113.61399999999999,china-henan,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+160,Zhejiang,China,29.1832,120.0934,china-zhejiang,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+161,Hunan,China,27.6104,111.7088,china-hunan,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+162,Anhui,China,31.8257,117.2264,china-anhui,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+163,Jiangxi,China,27.614,115.7221,china-jiangxi,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+164,Shandong,China,36.3427,118.1498,china-shandong,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+166,Jiangsu,China,32.9711,119.455,china-jiangsu,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+167,Chongqing,China,30.0572,107.874,china-chongqing,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+168,Sichuan,China,30.6171,102.7103,china-sichuan,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+169,Heilongjiang,China,47.861999999999995,127.7615,china-heilongjiang,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+170,Denmark,Denmark,56.2639,9.5018,denmark-denmark,https://thecodinginterface-covid.s3.amazonaws.com/denmark-denmark.json
+171,Beijing,China,40.1824,116.4142,china-beijing,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+172,Shanghai,China,31.201999999999998,121.4491,china-shanghai,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+173,Hebei,China,39.549,116.1306,china-hebei,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+174,Fujian,China,26.0789,117.9874,china-fujian,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+175,Guangxi,China,23.8298,108.7881,china-guangxi,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+176,Shaanxi,China,35.1917,108.8701,china-shaanxi,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+177,Yunnan,China,24.974,101.48700000000001,china-yunnan,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+178,Hainan,China,19.1959,109.7453,china-hainan,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+179,Guizhou,China,26.8154,106.8748,china-guizhou,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+180,Tianjin,China,39.3054,117.323,china-tianjin,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+181,Shanxi,China,37.5777,112.2922,china-shanxi,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+182,Gansu,China,37.8099,101.0583,china-gansu,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+183,Hong Kong,China,22.3,114.2,china-hong-kong,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+184,Liaoning,China,41.2956,122.6085,china-liaoning,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+185,Jilin,China,43.6661,126.1923,china-jilin,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+187,Xinjiang,China,41.1129,85.2401,china-xinjiang,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+188,Inner Mongolia,China,44.0935,113.9448,china-inner-mongolia,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+189,Ningxia,China,37.2692,106.1655,china-ningxia,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+191,,Vietnam,16.0,108.0,vietnam,https://thecodinginterface-covid.s3.amazonaws.com/vietnam.json
+192,,Russia,60.0,90.0,russia,https://thecodinginterface-covid.s3.amazonaws.com/russia.json
+193,Qinghai,China,35.7452,95.9956,china-qinghai,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+194,Macau,China,22.1667,113.55,china-macau,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+195,,Moldova,47.4116,28.3699,moldova,https://thecodinginterface-covid.s3.amazonaws.com/moldova.json
+196,,Bolivia,-16.2902,-63.5887,bolivia,https://thecodinginterface-covid.s3.amazonaws.com/bolivia.json
+197,Faroe Islands,Denmark,61.8926,-6.9118,denmark-faroe-islands,https://thecodinginterface-covid.s3.amazonaws.com/denmark-denmark.json
+198,St Martin,France,18.0708,-63.0501,france-st-martin,https://thecodinginterface-covid.s3.amazonaws.com/france-france.json
+199,,Honduras,15.2,-86.2419,honduras,https://thecodinginterface-covid.s3.amazonaws.com/honduras.json
+200,Channel Islands,United Kingdom,49.3723,-2.3644,united-kingdom-channel-islands,https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-channel-islands.json
+201,New Brunswick,Canada,46.5653,-66.4619,canada-new-brunswick,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+202,Tibet,China,31.6927,88.0924,china-tibet,https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json
+205,Saint Barthelemy,France,17.9,-62.8333,france-saint-barthelemy,https://thecodinginterface-covid.s3.amazonaws.com/france-france.json
+206,,Jamaica,18.1096,-77.2975,jamaica,https://thecodinginterface-covid.s3.amazonaws.com/jamaica.json
+207,,Turkey,38.9637,35.2433,turkey,https://thecodinginterface-covid.s3.amazonaws.com/turkey.json
+208,Gibraltar,United Kingdom,36.1408,-5.3536,united-kingdom-gibraltar,https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-channel-islands.json
+209,"Kitsap, WA",US,47.6477,-122.6413,us-kitsap-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+210,"Solano, CA",US,38.3105,-121.9018,us-solano-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+211,"Santa Cruz, CA",US,37.0454,-121.958,us-santa-cruz-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+212,"Napa, CA",US,38.5025,-122.2654,us-napa-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+213,"Ventura, CA",US,34.3705,-119.1391,us-ventura-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+214,"Worcester, MA",US,42.4097,-71.8571,us-worcester-ma,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+215,"Gwinnett, GA",US,33.9191,-84.0167,us-gwinnett-ga,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+216,"DeKalb, GA",US,33.7956,-84.2279,us-dekalb-ga,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+217,"Floyd, GA",US,37.5455,-82.7779,us-floyd-ga,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+218,"Fayette, GA",US,33.4502,-84.4803,us-fayette-ga,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+219,"Gregg, TX",US,32.4893,-94.8521,us-gregg-tx,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+220,"Monmouth, NJ",US,40.2589,-74.124,us-monmouth-nj,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+221,"Burlington, NJ",US,40.0712,-74.8649,us-burlington-nj,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+222,"Camden, NJ",US,39.9259,-75.1196,us-camden-nj,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+223,"Passaic, NJ",US,40.8568,-74.1285,us-passaic-nj,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+224,"Union, NJ",US,40.6976,-74.2632,us-union-nj,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+225,"Eagle, CO",US,39.6553,-106.8287,us-eagle-co,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+226,"Larimer, CO",US,40.6956,-105.5943,us-larimer-co,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+227,"Arapahoe, CO",US,39.6203,-104.3326,us-arapahoe-co,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+228,"Gunnison, CO",US,38.5458,-106.9253,us-gunnison-co,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+229,"Kane, IL",US,41.9879,-88.4016,us-kane-il,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+230,"Monroe, PA",US,41.0458,-75.2479,us-monroe-pa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+231,"Philadelphia, PA",US,39.9526,-75.1652,us-philadelphia-pa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+232,"Norfolk, VA",US,36.8508,-76.2859,us-norfolk-va,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+233,"Arlington, VA",US,38.8816,-77.09100000000001,us-arlington-va,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+234,"Spotsylvania, VA",US,38.2042,-77.6078,us-spotsylvania-va,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+235,"Loudoun, VA",US,39.0768,-77.6536,us-loudoun-va,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+236,"Prince George's, MD",US,38.7849,-76.8721,us-prince-george-s-md,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+237,"Pottawattamie, IA",US,41.3912,-95.4778,us-pottawattamie-ia,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+238,"Camden, NC",US,34.2465,-80.607,us-camden-nc,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+239,"Pima, AZ",US,32.0575,-111.6661,us-pima-az,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+240,"Noble, IN",US,41.4277,-85.355,us-noble-in,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+241,"Adams, IN",US,39.8522,-77.2865,us-adams-in,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+242,"Boone, IN",US,40.0106,-86.4997,us-boone-in,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+243,"Dane, WI",US,43.0186,-89.5498,us-dane-wi,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+244,"Pierce, WI",US,44.7509,-92.3814,us-pierce-wi,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+245,"Cuyahoga, OH",US,41.4339,-81.6758,us-cuyahoga-oh,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+246,"Weber, UT",US,41.2603,-111.9522,us-weber-ut,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+247,"Bennington County, VT",US,43.0279,-73.135,us-bennington-county-vt,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+248,"Carver County, MN",US,44.8254,-93.7842,us-carver-county-mn,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+249,"Charlotte County, FL",US,26.8946,-81.9098,us-charlotte-county-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+250,"Cherokee County, GA",US,34.2515,-84.4803,us-cherokee-county-ga,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+251,"Collin County, TX",US,33.1795,-96.493,us-collin-county-tx,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+252,"Jefferson County, KY",US,38.1938,-85.6435,us-jefferson-county-ky,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+253,"Jefferson Parish, LA",US,29.6499,-90.1121,us-jefferson-parish-la,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+254,"Shasta County, CA",US,40.7909,-121.8474,us-shasta-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+255,"Spartanburg County, SC",US,34.8606,-81.9535,us-spartanburg-county-sc,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+256,"Harrison County, KY",US,38.4333,-84.3542,us-harrison-county-ky,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+257,"Johnson County, IA",US,41.6699,-91.5984,us-johnson-county-ia,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+258,"Berkshire County, MA",US,42.3118,-73.1822,us-berkshire-county-ma,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+259,"Davidson County, TN",US,36.1343,-86.822,us-davidson-county-tn,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+260,"Douglas County, OR",US,43.1261,-123.2492,us-douglas-county-or,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+261,"Fresno County, CA",US,36.9859,-119.2321,us-fresno-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+262,"Harford County, MD",US,39.5839,-76.3637,us-harford-county-md,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+263,"Hendricks County, IN",US,39.8065,-86.5401,us-hendricks-county-in,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+264,"Hudson County, NJ",US,40.7453,-74.0535,us-hudson-county-nj,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+265,"Johnson County, KS",US,38.8454,-94.8521,us-johnson-county-ks,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+266,"Kittitas County, WA",US,47.175,-120.9319,us-kittitas-county-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+267,"Manatee County, FL",US,27.4799,-82.3452,us-manatee-county-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+268,"Marion County, OR",US,44.8446,-122.5927,us-marion-county-or,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+269,"Okaloosa County, FL",US,30.5773,-86.6611,us-okaloosa-county-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+270,"Polk County, GA",US,34.0132,-85.1479,us-polk-county-ga,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+271,"Riverside County, CA",US,33.9533,-117.3961,us-riverside-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+272,"Shelby County, TN",US,35.1269,-89.9253,us-shelby-county-tn,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+273,"St. Louis County, MO",US,38.6103,-90.4125,us-st-louis-county-mo,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+274,"Suffolk County, NY",US,40.9849,-72.6151,us-suffolk-county-ny,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+275,"Ulster County, NY",US,41.8586,-74.3118,us-ulster-county-ny,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+276,"Volusia County, FL",US,29.028000000000002,-81.0755,us-volusia-county-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+277,"Fairfax County, VA",US,38.9085,-77.2405,us-fairfax-county-va,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+278,"Rockingham County, NH",US,42.9931,-71.0498,us-rockingham-county-nh,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+279,"Washington, D.C.",US,38.9072,-77.0369,us-washington-d-c,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+280,"Montgomery County, PA",US,40.229,-75.3879,us-montgomery-county-pa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+281,"Alameda County, CA",US,37.6017,-121.7195,us-alameda-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+282,"Broward County, FL",US,26.1901,-80.3659,us-broward-county-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+283,"Lee County, FL",US,26.663,-81.9535,us-lee-county-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+284,"Pinal County, AZ",US,32.8162,-111.2845,us-pinal-county-az,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+285,"Rockland County, NY",US,41.1489,-73.983,us-rockland-county-ny,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+286,"Saratoga County, NY",US,43.0324,-73.936,us-saratoga-county-ny,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+287,"Charleston County, SC",US,32.7957,-79.7848,us-charleston-county-sc,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+288,"Clark County, WA",US,45.7466,-122.5194,us-clark-county-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+289,"Cobb County, GA",US,33.8999,-84.5641,us-cobb-county-ga,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+290,"Davis County, UT",US,40.9629,-112.0953,us-davis-county-ut,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+291,"El Paso County, CO",US,38.9108,-104.4723,us-el-paso-county-co,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+292,"Honolulu County, HI",US,21.307,-157.8584,us-honolulu-county-hi,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+293,"Jackson County, OR",US,42.3345,-122.7647,us-jackson-county-or,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+294,"Jefferson County, WA",US,47.7425,-123.304,us-jefferson-county-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+295,"Kershaw County, SC",US,34.3672,-80.5883,us-kershaw-county-sc,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+296,"Klamath County, OR",US,42.6953,-121.6142,us-klamath-county-or,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+297,"Madera County, CA",US,37.2519,-119.6963,us-madera-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+298,"Pierce County, WA",US,47.0676,-122.1295,us-pierce-county-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+299,"Tulsa County, OK",US,36.1593,-95.941,us-tulsa-county-ok,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+300,"Douglas County, CO",US,39.2587,-104.9389,us-douglas-county-co,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+301,"Providence County, RI",US,41.8882,-71.4774,us-providence-county-ri,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+302,"Chatham County, NC",US,35.7211,-79.1781,us-chatham-county-nc,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+303,"Delaware County, PA",US,39.9078,-75.3879,us-delaware-county-pa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+304,"Douglas County, NE",US,41.3148,-96.1951,us-douglas-county-ne,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+305,"Fayette County, KY",US,38.0606,-84.4803,us-fayette-county-ky,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+306,"Marion County, IN",US,39.8362,-86.1752,us-marion-county-in,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+307,"Middlesex County, MA",US,42.4672,-71.2874,us-middlesex-county-ma,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+308,"Nassau County, NY",US,40.6546,-73.5594,us-nassau-county-ny,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+309,"Ramsey County, MN",US,44.9964,-93.0616,us-ramsey-county-mn,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+310,"Washoe County, NV",US,40.5608,-119.6035,us-washoe-county-nv,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+311,"Wayne County, PA",US,41.6739,-75.2479,us-wayne-county-pa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+312,"Yolo County, CA",US,38.7646,-121.9018,us-yolo-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+313,"Santa Clara County, CA",US,37.3541,-121.9552,us-santa-clara-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+314,"Clark County, NV",US,36.0796,-115.094,us-clark-county-nv,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+315,"Fort Bend County, TX",US,29.5693,-95.8143,us-fort-bend-county-tx,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+316,"Grant County, WA",US,47.1981,-119.3732,us-grant-county-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+317,"Santa Rosa County, FL",US,30.769000000000002,-86.9824,us-santa-rosa-county-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+318,"Williamson County, TN",US,35.9179,-86.8622,us-williamson-county-tn,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+319,"New York County, NY",US,40.7128,-74.006,us-new-york-county-ny,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+320,"Montgomery County, MD",US,39.1547,-77.2405,us-montgomery-county-md,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+321,"Suffolk County, MA",US,42.3601,-71.0589,us-suffolk-county-ma,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+322,"Denver County, CO",US,39.7392,-104.9903,us-denver-county-co,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+323,"Summit County, CO",US,39.5912,-106.064,us-summit-county-co,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+324,"Bergen County, NJ",US,40.9263,-74.077,us-bergen-county-nj,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+325,"Harris County, TX",US,29.7752,-95.3103,us-harris-county-tx,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+326,"San Francisco County, CA",US,37.7749,-122.4194,us-san-francisco-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+327,"Contra Costa County, CA",US,37.8534,-121.9018,us-contra-costa-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+328,"Orange County, CA",US,33.7879,-117.8531,us-orange-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+329,"Norfolk County, MA",US,42.1767,-71.1449,us-norfolk-county-ma,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+330,"Maricopa County, AZ",US,33.2918,-112.4291,us-maricopa-county-az,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+331,"Wake County, NC",US,35.8032,-78.5661,us-wake-county-nc,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+332,"Westchester County, NY",US,41.122,-73.7949,us-westchester-county-ny,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+333,"Grafton County, NH",US,43.9088,-71.82600000000001,us-grafton-county-nh,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+334,"Hillsborough, FL",US,27.9904,-82.3018,us-hillsborough-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+335,"Placer County, CA",US,39.0916,-120.8039,us-placer-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+336,"San Mateo, CA",US,37.563,-122.3255,us-san-mateo-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+337,"Sonoma County, CA",US,38.578,-122.9888,us-sonoma-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+338,"Umatilla, OR",US,45.775,-118.7606,us-umatilla-or,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+339,"Fulton County, GA",US,33.8034,-84.3963,us-fulton-county-ga,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+340,"Washington County, OR",US,45.547,-123.1386,us-washington-county-or,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+341,"Snohomish County, WA",US,48.033,-121.8339,us-snohomish-county-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+342,"Humboldt County, CA",US,40.745,-123.8695,us-humboldt-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+343,"Sacramento County, CA",US,38.4747,-121.3542,us-sacramento-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+344,"San Diego County, CA",US,32.7157,-117.1611,us-san-diego-county-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+345,"San Benito, CA",US,36.5761,-120.9876,us-san-benito-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+346,"Los Angeles, CA",US,34.0522,-118.2437,us-los-angeles-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+347,"King County, WA",US,47.6062,-122.3321,us-king-county-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+348,"Cook County, IL",US,41.7377,-87.6976,us-cook-county-il,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+349,"Skagit, WA",US,48.4242,-121.7114,us-skagit-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+350,"Thurston, WA",US,46.8646,-122.7696,us-thurston-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+351,"Island, WA",US,48.1976,-122.5795,us-island-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+352,"Whatcom, WA",US,48.8787,-121.9719,us-whatcom-wa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+353,"Marin, CA",US,38.0834,-122.7633,us-marin-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+354,"Calaveras, CA",US,38.196,-120.6805,us-calaveras-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+355,"Stanislaus, CA",US,37.5091,-120.9876,us-stanislaus-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+356,"San Joaquin, CA",US,36.6066,-120.189,us-san-joaquin-ca,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+357,"Essex, MA",US,42.632,-70.7829,us-essex-ma,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+358,"Charlton, GA",US,30.7917,-82.0843,us-charlton-ga,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+359,"Collier, FL",US,26.07,-81.4279,us-collier-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+360,"Pinellas, FL",US,27.8764,-82.7779,us-pinellas-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+361,"Alachua, FL",US,29.7938,-82.4944,us-alachua-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+362,"Nassau, FL",US,30.5927,-81.8224,us-nassau-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+363,"Pasco, FL",US,28.3232,-82.4319,us-pasco-fl,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+364,"Dallas, TX",US,32.7767,-96.79700000000001,us-dallas-tx,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+365,"Tarrant, TX",US,32.7732,-97.3517,us-tarrant-tx,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+366,"Montgomery, TX",US,30.3883,-95.6963,us-montgomery-tx,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+367,"Middlesex, NJ",US,40.5726,-74.4927,us-middlesex-nj,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+368,"Jefferson, CO",US,39.58,-105.2663,us-jefferson-co,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+369,"Multnomah, OR",US,45.5146,-122.5863,us-multnomah-or,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+370,"Polk, OR",US,44.9267,-123.4919,us-polk-or,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+371,"Deschutes, OR",US,43.8325,-121.2617,us-deschutes-or,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+372,"McHenry, IL",US,42.3334,-88.2668,us-mchenry-il,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+373,"Lake, IL",US,42.3689,-87.8272,us-lake-il,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+374,"Bucks, PA",US,40.4108,-75.2479,us-bucks-pa,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+375,"Hanover, VA",US,37.7772,-77.5161,us-hanover-va,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+376,"Lancaster, SC",US,34.7253,-80.6771,us-lancaster-sc,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+377,"Sullivan, TN",US,36.4933,-82.3452,us-sullivan-tn,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+378,"Johnson, IN",US,39.4638,-86.1345,us-johnson-in,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+379,"Howard, IN",US,40.4483,-86.1345,us-howard-in,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+380,"St. Joseph, IN",US,41.6228,-86.3377,us-st-joseph-in,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+381,"Knox, NE",US,42.6712,-97.8722,us-knox-ne,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+382,"Stark, OH",US,40.8685,-81.2519,us-stark-oh,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+383,"Anoka, MN",US,45.3293,-93.2197,us-anoka-mn,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+384,"Olmsted, MN",US,43.9952,-92.3814,us-olmsted-mn,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+385,"Summit, UT",US,40.8298,-110.9984,us-summit-ut,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+386,"Fairfield, CT",US,41.256,-73.3709,us-fairfield-ct,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+387,"Litchfield, CT",US,41.7866,-73.2765,us-litchfield-ct,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+388,"Orleans, LA",US,29.9511,-90.0715,us-orleans-la,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+389,"Pennington, SD",US,43.8901,-102.2548,us-pennington-sd,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+390,"Beadle, SD",US,44.4797,-98.2213,us-beadle-sd,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+391,"Charles Mix, SD",US,43.0985,-98.3965,us-charles-mix-sd,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+392,"Davison, SD",US,43.7242,-98.2213,us-davison-sd,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+393,"Minnehaha, SD",US,43.6632,-96.8351,us-minnehaha-sd,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+394,"Bon Homme, SD",US,42.9815,-97.8722,us-bon-homme-sd,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+395,"Socorro, NM",US,33.8837,-106.7235,us-socorro-nm,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+396,"Bernalillo, NM",US,35.0178,-106.6291,us-bernalillo-nm,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+397,"Oakland, MI",US,42.5922,-83.3362,us-oakland-mi,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+398,"Wayne, MI",US,42.2791,-83.3362,us-wayne-mi,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+399,"New Castle, DE",US,39.5393,-75.6674,us-new-castle-de,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+400,,Cuba,22.0,-80.0,cuba,https://thecodinginterface-covid.s3.amazonaws.com/cuba.json
+401,,Guyana,5.0,-58.75,guyana,https://thecodinginterface-covid.s3.amazonaws.com/guyana.json
+402,Australian Capital Territory,Australia,-35.4735,149.0124,australia-australian-capital-territory,https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json
+403,United Kingdom,United Kingdom,55.3781,-3.4360000000000004,united-kingdom-united-kingdom,https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-channel-islands.json
+404,,Kazakhstan,48.0196,66.9237,kazakhstan,https://thecodinginterface-covid.s3.amazonaws.com/kazakhstan.json
+405,French Polynesia,France,-17.6797,149.4068,france-french-polynesia,https://thecodinginterface-covid.s3.amazonaws.com/france-france.json
+406,Manitoba,Canada,53.7609,-98.8139,canada-manitoba,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+407,Saskatchewan,Canada,52.9399,-106.4509,canada-saskatchewan,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+408,,Ethiopia,9.145,40.4897,ethiopia,https://thecodinginterface-covid.s3.amazonaws.com/ethiopia.json
+409,,Sudan,12.8628,30.2176,sudan,https://thecodinginterface-covid.s3.amazonaws.com/sudan.json
+410,,Guinea,9.9456,-9.6966,guinea,https://thecodinginterface-covid.s3.amazonaws.com/guinea.json
+411,Grand Princess,Canada,37.6489,-122.6655,canada-grand-princess,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+412,,Kenya,-0.0236,37.9062,kenya,https://thecodinginterface-covid.s3.amazonaws.com/kenya.json
+413,,Antigua and Barbuda,17.0608,-61.7964,antigua-and-barbuda,https://thecodinginterface-covid.s3.amazonaws.com/antigua-and-barbuda.json
+414,Alabama,US,32.3182,-86.9023,us-alabama,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+415,,Uruguay,-32.5228,-55.7658,uruguay,https://thecodinginterface-covid.s3.amazonaws.com/uruguay.json
+416,,Ghana,7.9465,-1.0232,ghana,https://thecodinginterface-covid.s3.amazonaws.com/ghana.json
+417,Puerto Rico,US,18.2208,-66.5901,us-puerto-rico,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+418,,Namibia,-22.9576,18.4904,namibia,https://thecodinginterface-covid.s3.amazonaws.com/namibia.json
+419,,Seychelles,-4.6796,55.492,seychelles,https://thecodinginterface-covid.s3.amazonaws.com/seychelles.json
+420,,Trinidad and Tobago,10.6918,-61.2225,trinidad-and-tobago,https://thecodinginterface-covid.s3.amazonaws.com/trinidad-and-tobago.json
+421,,Venezuela,6.4238,-66.5897,venezuela,https://thecodinginterface-covid.s3.amazonaws.com/venezuela.json
+422,,Eswatini,-26.5225,31.4659,eswatini,https://thecodinginterface-covid.s3.amazonaws.com/eswatini.json
+423,,Gabon,-0.8037,11.6094,gabon,https://thecodinginterface-covid.s3.amazonaws.com/gabon.json
+424,,Guatemala,15.7835,-90.2308,guatemala,https://thecodinginterface-covid.s3.amazonaws.com/guatemala.json
+425,,Mauritania,21.0079,10.9408,mauritania,https://thecodinginterface-covid.s3.amazonaws.com/mauritania.json
+426,,Rwanda,-1.9403,29.8739,rwanda,https://thecodinginterface-covid.s3.amazonaws.com/rwanda.json
+427,,Saint Lucia,13.9094,-60.9789,saint-lucia,https://thecodinginterface-covid.s3.amazonaws.com/saint-lucia.json
+429,,Suriname,3.9193,-56.0278,suriname,https://thecodinginterface-covid.s3.amazonaws.com/suriname.json
+430,French Guiana,France,3.9339,-53.1258,france-french-guiana,https://thecodinginterface-covid.s3.amazonaws.com/france-france.json
+431,Guam,US,13.4443,144.7937,us-guam,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+433,Newfoundland and Labrador,Canada,53.1355,-57.6604,canada-newfoundland-and-labrador,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+434,Prince Edward Island,Canada,46.5107,-63.4168,canada-prince-edward-island,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+435,,Central African Republic,6.6111,20.9394,central-african-republic,https://thecodinginterface-covid.s3.amazonaws.com/central-african-republic.json
+437,,Equatorial Guinea,1.5,10.0,equatorial-guinea,https://thecodinginterface-covid.s3.amazonaws.com/equatorial-guinea.json
+438,Mayotte,France,-12.8275,45.1662,france-mayotte,https://thecodinginterface-covid.s3.amazonaws.com/france-france.json
+439,,Uzbekistan,41.3775,64.5853,uzbekistan,https://thecodinginterface-covid.s3.amazonaws.com/uzbekistan.json
+440,Netherlands,Netherlands,52.1326,5.2913,netherlands-netherlands,https://thecodinginterface-covid.s3.amazonaws.com/netherlands-netherlands.json
+441,Nova Scotia,Canada,44.681999999999995,-63.7443,canada-nova-scotia,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+442,Guadeloupe,France,16.25,-61.5833,france-guadeloupe,https://thecodinginterface-covid.s3.amazonaws.com/france-france.json
+443,,Benin,9.3077,2.3158,benin,https://thecodinginterface-covid.s3.amazonaws.com/benin.json
+444,,Liberia,6.4281,-9.4295,liberia,https://thecodinginterface-covid.s3.amazonaws.com/liberia.json
+445,Curacao,Netherlands,12.1696,-68.99,netherlands-curacao,https://thecodinginterface-covid.s3.amazonaws.com/netherlands-netherlands.json
+446,,Somalia,5.1521,46.1996,somalia,https://thecodinginterface-covid.s3.amazonaws.com/somalia.json
+447,,Tanzania,-6.369,34.8888,tanzania,https://thecodinginterface-covid.s3.amazonaws.com/tanzania.json
+448,Virgin Islands,US,18.3358,-64.8963,us-virgin-islands,https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json
+449,Cayman Islands,United Kingdom,19.3133,-81.2546,united-kingdom-cayman-islands,https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-channel-islands.json
+450,Reunion,France,-21.1351,55.2471,france-reunion,https://thecodinginterface-covid.s3.amazonaws.com/france-france.json
+451,,Barbados,13.1939,-59.5432,barbados,https://thecodinginterface-covid.s3.amazonaws.com/barbados.json
+452,,Montenegro,42.5,19.3,montenegro,https://thecodinginterface-covid.s3.amazonaws.com/montenegro.json
+453,,Kyrgyzstan,41.2044,74.7661,kyrgyzstan,https://thecodinginterface-covid.s3.amazonaws.com/kyrgyzstan.json
+454,,Mauritius,-20.2,57.5,mauritius,https://thecodinginterface-covid.s3.amazonaws.com/mauritius.json
+455,Aruba,Netherlands,12.5186,-70.0358,netherlands-aruba,https://thecodinginterface-covid.s3.amazonaws.com/netherlands-netherlands.json
+456,,Zambia,-15.4167,28.2833,zambia,https://thecodinginterface-covid.s3.amazonaws.com/zambia.json
+457,,Djibouti,11.8251,42.5903,djibouti,https://thecodinginterface-covid.s3.amazonaws.com/djibouti.json
+459,Montserrat,United Kingdom,16.7425,-62.1874,united-kingdom-montserrat,https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-channel-islands.json
+461,Greenland,Denmark,71.7069,-42.6043,denmark-greenland,https://thecodinginterface-covid.s3.amazonaws.com/denmark-denmark.json
+462,New Caledonia,France,-20.9043,165.618,france-new-caledonia,https://thecodinginterface-covid.s3.amazonaws.com/france-france.json
+463,Bermuda,United Kingdom,32.3078,-64.7505,united-kingdom-bermuda,https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-channel-islands.json
+464,,Chad,15.4542,18.7322,chad,https://thecodinginterface-covid.s3.amazonaws.com/chad.json
+465,,El Salvador,13.7942,-88.8965,el-salvador,https://thecodinginterface-covid.s3.amazonaws.com/el-salvador.json
+466,,Fiji,-17.7134,178.065,fiji,https://thecodinginterface-covid.s3.amazonaws.com/fiji.json
+467,,Nicaragua,12.8654,-85.2072,nicaragua,https://thecodinginterface-covid.s3.amazonaws.com/nicaragua.json
+468,,Madagascar,-18.7669,46.8691,madagascar,https://thecodinginterface-covid.s3.amazonaws.com/madagascar.json
+469,,Haiti,18.9712,-72.2852,haiti,https://thecodinginterface-covid.s3.amazonaws.com/haiti.json
+470,,Angola,-11.2027,17.8739,angola,https://thecodinginterface-covid.s3.amazonaws.com/angola.json
+471,,Cabo Verde,16.5388,-23.0418,cabo-verde,https://thecodinginterface-covid.s3.amazonaws.com/cabo-verde.json
+472,Sint Maarten,Netherlands,18.0425,-63.0548,netherlands-sint-maarten,https://thecodinginterface-covid.s3.amazonaws.com/netherlands-netherlands.json
+473,,Niger,17.6078,8.0817,niger,https://thecodinginterface-covid.s3.amazonaws.com/niger.json
+474,,Papua New Guinea,-6.315,143.9555,papua-new-guinea,https://thecodinginterface-covid.s3.amazonaws.com/papua-new-guinea.json
+475,Isle of Man,United Kingdom,54.2361,-4.5481,united-kingdom-isle-of-man,https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-channel-islands.json
+476,,Zimbabwe,-20.0,30.0,zimbabwe,https://thecodinginterface-covid.s3.amazonaws.com/zimbabwe.json
+477,Northwest Territories,Canada,64.8255,-124.8457,canada-northwest-territories,https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json
+480,,Eritrea,15.1794,39.7823,eritrea,https://thecodinginterface-covid.s3.amazonaws.com/eritrea.json
+481,,Uganda,1.0,32.0,uganda,https://thecodinginterface-covid.s3.amazonaws.com/uganda.json
+482,,Dominica,15.415,-61.371,dominica,https://thecodinginterface-covid.s3.amazonaws.com/dominica.json
+483,,Grenada,12.1165,-61.678999999999995,grenada,https://thecodinginterface-covid.s3.amazonaws.com/grenada.json
+484,,Mozambique,-18.6657,35.5296,mozambique,https://thecodinginterface-covid.s3.amazonaws.com/mozambique.json
+485,,Syria,34.8021,38.9968,syria,https://thecodinginterface-covid.s3.amazonaws.com/syria.json
+486,,Timor-Leste,-8.8742,125.7275,timor-leste,https://thecodinginterface-covid.s3.amazonaws.com/timor-leste.json

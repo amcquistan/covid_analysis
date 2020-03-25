@@ -1,0 +1,3 @@
+venv/
+location_case_data/
+*.pyc
