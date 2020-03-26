@@ -3,7 +3,7 @@
 
 # ### John Hopkins GitHub Repo Data Wrangling
 
-# In[32]:
+# In[1]:
 
 
 import json
@@ -16,13 +16,13 @@ import uuid
 from slugify import slugify
 
 
-# In[33]:
+# In[2]:
 
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__name__))), 'COVID-19')
 
 
-# In[34]:
+# In[3]:
 
 
 # the confirmed cases time series files in here have Lat and Long for each location
@@ -30,12 +30,12 @@ confirmed_series_file = os.path.join(
     DATA_DIR,
     'csse_covid_19_data',
     'csse_covid_19_time_series',
-    'time_series_19-covid-Confirmed.csv'
+    'time_series_covid19_confirmed_global.csv'
 )
 confirmed_series_file
 
 
-# In[35]:
+# In[4]:
 
 
 # show first 10 rows of time_series_19-covid-Confirmed.csv file
@@ -43,7 +43,7 @@ confirmed_series_file
 # COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv
 
 
-# In[36]:
+# In[5]:
 
 
 cols=['Province/State', 'Country/Region', 'Lat', 'Long']
@@ -51,7 +51,7 @@ locations_df = pd.read_csv(confirmed_series_file, usecols=cols)
 locations_df.head()
 
 
-# In[37]:
+# In[6]:
 
 
 s3_resource = boto3.resource('s3')
@@ -59,7 +59,7 @@ bucket_name = 'thecodinginterface-covid'
 s3_bucket = s3_resource.Bucket(name=bucket_name)
 
 
-# In[38]:
+# In[7]:
 
 
 def slugify_location(country_region, province_state):
@@ -79,7 +79,7 @@ def upload_file_to_s3(s3_bucket, file_path, file_name):
     return cloud_resource_url(file_name, s3_bucket.name)
 
 
-# In[39]:
+# In[8]:
 
 
 # rename columns to be snake_cased making it more ammenable to serialization
@@ -109,27 +109,27 @@ locations_df['cloud_resource'] = [cloud_resource_url(filename, bucket_name)
 locations_df.head()
 
 
-# In[60]:
+# In[9]:
 
 
 locations_df.country_region.unique()
 
 
-# In[40]:
+# In[10]:
 
 
 locations_df = locations_df.set_index('location_id')
 locations_df[locations_df.country_region == 'US'].sort_values('province_state')
 
 
-# In[41]:
+# In[11]:
 
 
 # I'll do more with this locations_df DataFrame later after
 # constructing country specific case data sets
 
 
-# In[42]:
+# In[12]:
 
 
 # build list of daily csv files
@@ -144,20 +144,20 @@ daily_csv_files = [file_name
 daily_csv_files[:5]
 
 
-# In[61]:
+# In[13]:
 
 
 # take a peek at the structure of a file that will be worked with
 os.path.join(confirmed_series_dir, daily_csv_files[-1])
 
 
-# In[44]:
+# In[14]:
 
 
 #!head ./COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/02-26-2020.csv
 
 
-# In[45]:
+# In[15]:
 
 
 def calc_differential(x):
@@ -166,7 +166,7 @@ def calc_differential(x):
     return dx
 
 
-# In[46]:
+# In[16]:
 
 
 # read the daily files into DataFrame objects then concatenate them together
@@ -222,22 +222,36 @@ for file_name in daily_csv_files:
     daily_dfs.append(day_df[colunns_of_interest])
     
 daily_df = pd.concat(daily_dfs)
-
-
 # make sure text columns are well cleaned and stripped of whitespace
 daily_df.province_state = daily_df.province_state.str.strip()
 daily_df.country_region = daily_df.country_region.str.strip()
-    
+daily_df.head(10)
+
+
+# In[17]:
+
+
+whole_country_df = daily_df.groupby(['country_region', 'date']).sum()
+whole_country_df = whole_country_df.reset_index()
+whole_country_df['province_state'] = [''] * whole_country_df.shape[0]
+whole_country_df.head(10)
+
+
+# In[18]:
+
+
+daily_df = pd.concat([daily_df, whole_country_df])
+daily_df = daily_df.drop_duplicates()
 locations = zip(daily_df.country_region.values, daily_df.province_state.values)
 daily_df['location_id'] = [slugify_location(country_region, province_state)
                            for country_region, province_state in locations]
 
 # sort by country_region, province_state, date
 daily_df = daily_df.sort_values(['country_region', 'province_state', 'date'])
-daily_df.head()
+daily_df[(daily_df.country_region == 'US') & (daily_df.province_state == '')].head()
 
 
-# In[47]:
+# In[19]:
 
 
 # get totals per location
@@ -256,7 +270,7 @@ location_totals_df['recovery_rate'] = location_totals_df.total_recovered / locat
 location_totals_df.sort_values('total_confirmed', ascending=False).head(10)
 
 
-# In[48]:
+# In[20]:
 
 
 # get totals per country / region
@@ -274,7 +288,7 @@ country_totals_df['recovery_rate'] = country_totals_df.total_recovered / country
 country_totals_df.sort_values('country_region').head(25)
 
 
-# In[49]:
+# In[21]:
 
 
 world_population_df = pd.read_csv('world_population.csv')
@@ -282,7 +296,7 @@ world_population_df = world_population_df.set_index('country_region')
 world_population_df.head()
 
 
-# In[50]:
+# In[22]:
 
 
 # add population data to country totals
@@ -290,13 +304,7 @@ country_totals_df = country_totals_df.join(world_population_df)
 country_totals_df.head(20)
 
 
-# In[51]:
-
-
-daily_df.head()
-
-
-# In[52]:
+# In[23]:
 
 
 # group by location and serialize each location dataset to a json file
@@ -340,12 +348,27 @@ for location_id, location_data in location_groups:
 # In[53]:
 
 
-locations_df.head(25)
-locations_df = locations_df.reset_index()
+# locations_df.head(25)
+# locations_df = locations_df.reset_index()
+# locations_df.head()
+
+
+# In[25]:
+
+
+locations_df = daily_df[['location_id', 'province_state', 'country_region']].drop_duplicates()
+locations_df['cloud_resource'] = [cloud_resource_url(location_id, bucket_name) 
+                                  for location_id in locations_df.location_id.values]
 locations_df.head()
 
 
-# In[54]:
+# In[26]:
+
+
+locations_df[locations_df.province_state == 'Nebraska']
+
+
+# In[27]:
 
 
 # create a list of dicts in the form:
@@ -370,7 +393,7 @@ for k, location_data in location_groups:
             print(data)
 
 
-# In[55]:
+# In[28]:
 
 
 # serialize locations to JSON file
