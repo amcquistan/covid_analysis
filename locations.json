@@ -3,4008 +3,3330 @@
         "location_id": "afghanistan",
         "province_state": "",
         "country_region": "Afghanistan",
-        "lat": 33.0,
-        "long": 65.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/afghanistan.json"
     },
     {
         "location_id": "albania",
         "province_state": "",
         "country_region": "Albania",
-        "lat": 41.1533,
-        "long": 20.1683,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/albania.json"
     },
     {
         "location_id": "algeria",
         "province_state": "",
         "country_region": "Algeria",
-        "lat": 28.0339,
-        "long": 1.6596,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/algeria.json"
     },
     {
         "location_id": "andorra",
         "province_state": "",
         "country_region": "Andorra",
-        "lat": 42.5063,
-        "long": 1.5218,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/andorra.json"
     },
     {
         "location_id": "angola",
         "province_state": "",
         "country_region": "Angola",
-        "lat": -11.2027,
-        "long": 17.8739,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/angola.json"
     },
     {
         "location_id": "antigua-and-barbuda",
         "province_state": "",
         "country_region": "Antigua and Barbuda",
-        "lat": 17.0608,
-        "long": -61.7964,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/antigua-and-barbuda.json"
     },
     {
         "location_id": "argentina",
         "province_state": "",
         "country_region": "Argentina",
-        "lat": -38.4161,
-        "long": -63.6167,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/argentina.json"
     },
     {
         "location_id": "armenia",
         "province_state": "",
         "country_region": "Armenia",
-        "lat": 40.0691,
-        "long": 45.0382,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/armenia.json"
+    },
+    {
+        "location_id": "aruba",
+        "province_state": "",
+        "country_region": "Aruba",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/aruba.json"
+    },
+    {
+        "location_id": "australia",
+        "province_state": "",
+        "country_region": "Australia",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia.json"
     },
     {
         "location_id": "australia-australian-capital-territory",
         "province_state": "Australian Capital Territory",
         "country_region": "Australia",
-        "lat": -35.4735,
-        "long": 149.0124,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-australian-capital-territory.json"
+    },
+    {
+        "location_id": "australia-external-territories",
+        "province_state": "External territories",
+        "country_region": "Australia",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-external-territories.json"
     },
     {
         "location_id": "australia-from-diamond-princess",
         "province_state": "From Diamond Princess",
         "country_region": "Australia",
-        "lat": 35.4437,
-        "long": 139.638,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-from-diamond-princess.json"
+    },
+    {
+        "location_id": "australia-jervis-bay-territory",
+        "province_state": "Jervis Bay Territory",
+        "country_region": "Australia",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-jervis-bay-territory.json"
     },
     {
         "location_id": "australia-new-south-wales",
         "province_state": "New South Wales",
         "country_region": "Australia",
-        "lat": -33.8688,
-        "long": 151.2093,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-new-south-wales.json"
     },
     {
         "location_id": "australia-northern-territory",
         "province_state": "Northern Territory",
         "country_region": "Australia",
-        "lat": -12.4634,
-        "long": 130.8456,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-northern-territory.json"
     },
     {
         "location_id": "australia-queensland",
         "province_state": "Queensland",
         "country_region": "Australia",
-        "lat": -28.0167,
-        "long": 153.4,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-queensland.json"
     },
     {
         "location_id": "australia-south-australia",
         "province_state": "South Australia",
         "country_region": "Australia",
-        "lat": -34.9285,
-        "long": 138.6007,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-south-australia.json"
     },
     {
         "location_id": "australia-tasmania",
         "province_state": "Tasmania",
         "country_region": "Australia",
-        "lat": -41.4545,
-        "long": 145.9707,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-tasmania.json"
     },
     {
         "location_id": "australia-victoria",
         "province_state": "Victoria",
         "country_region": "Australia",
-        "lat": -37.8136,
-        "long": 144.9631,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-victoria.json"
     },
     {
         "location_id": "australia-western-australia",
         "province_state": "Western Australia",
         "country_region": "Australia",
-        "lat": -31.9505,
-        "long": 115.8605,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/australia-western-australia.json"
     },
     {
         "location_id": "austria",
         "province_state": "",
         "country_region": "Austria",
-        "lat": 47.5162,
-        "long": 14.5501,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/austria.json"
+    },
+    {
+        "location_id": "austria-none",
+        "province_state": "None",
+        "country_region": "Austria",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/austria-none.json"
     },
     {
         "location_id": "azerbaijan",
         "province_state": "",
         "country_region": "Azerbaijan",
-        "lat": 40.1431,
-        "long": 47.5769,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/azerbaijan.json"
+    },
+    {
+        "location_id": "bahamas",
+        "province_state": "",
+        "country_region": "Bahamas",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/bahamas.json"
     },
     {
         "location_id": "bahamas-the",
         "province_state": "",
         "country_region": "Bahamas, The",
-        "lat": 25.0343,
-        "long": -77.3963,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/bahamas-the.json"
     },
     {
         "location_id": "bahrain",
         "province_state": "",
         "country_region": "Bahrain",
-        "lat": 26.0275,
-        "long": 50.55,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/bahrain.json"
     },
     {
         "location_id": "bangladesh",
         "province_state": "",
         "country_region": "Bangladesh",
-        "lat": 23.685,
-        "long": 90.3563,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/bangladesh.json"
     },
     {
         "location_id": "barbados",
         "province_state": "",
         "country_region": "Barbados",
-        "lat": 13.1939,
-        "long": -59.5432,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/barbados.json"
     },
     {
         "location_id": "belarus",
         "province_state": "",
         "country_region": "Belarus",
-        "lat": 53.7098,
-        "long": 27.9534,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/belarus.json"
     },
     {
         "location_id": "belgium",
         "province_state": "",
         "country_region": "Belgium",
-        "lat": 50.8333,
-        "long": 4.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/belgium.json"
+    },
+    {
+        "location_id": "belize",
+        "province_state": "",
+        "country_region": "Belize",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/belize.json"
     },
     {
         "location_id": "benin",
         "province_state": "",
         "country_region": "Benin",
-        "lat": 9.3077,
-        "long": 2.3158,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/benin.json"
     },
     {
         "location_id": "bhutan",
         "province_state": "",
         "country_region": "Bhutan",
-        "lat": 27.5142,
-        "long": 90.4336,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/bhutan.json"
     },
     {
         "location_id": "bolivia",
         "province_state": "",
         "country_region": "Bolivia",
-        "lat": -16.2902,
-        "long": -63.5887,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/bolivia.json"
     },
     {
         "location_id": "bosnia-and-herzegovina",
         "province_state": "",
         "country_region": "Bosnia and Herzegovina",
-        "lat": 43.9159,
-        "long": 17.6791,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/bosnia-and-herzegovina.json"
     },
     {
         "location_id": "brazil",
         "province_state": "",
         "country_region": "Brazil",
-        "lat": -14.235,
-        "long": -51.9253,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/brazil.json"
     },
     {
         "location_id": "brunei",
         "province_state": "",
         "country_region": "Brunei",
-        "lat": 4.5353,
-        "long": 114.7277,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/brunei.json"
     },
     {
         "location_id": "bulgaria",
         "province_state": "",
         "country_region": "Bulgaria",
-        "lat": 42.7339,
-        "long": 25.4858,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/bulgaria.json"
     },
     {
         "location_id": "burkina-faso",
         "province_state": "",
         "country_region": "Burkina Faso",
-        "lat": 12.2383,
-        "long": -1.5616,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/burkina-faso.json"
     },
     {
         "location_id": "cabo-verde",
         "province_state": "",
         "country_region": "Cabo Verde",
-        "lat": 16.5388,
-        "long": -23.0418,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cabo-verde.json"
     },
     {
         "location_id": "cambodia",
         "province_state": "",
         "country_region": "Cambodia",
-        "lat": 11.55,
-        "long": 104.9167,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cambodia.json"
     },
     {
         "location_id": "cameroon",
         "province_state": "",
         "country_region": "Cameroon",
-        "lat": 3.848,
-        "long": 11.5021,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cameroon.json"
+    },
+    {
+        "location_id": "canada",
+        "province_state": "",
+        "country_region": "Canada",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada.json"
     },
     {
         "location_id": "canada-alberta",
         "province_state": "Alberta",
         "country_region": "Canada",
-        "lat": 53.9333,
-        "long": -116.5765,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-alberta.json"
     },
     {
         "location_id": "canada-british-columbia",
         "province_state": "British Columbia",
         "country_region": "Canada",
-        "lat": 49.2827,
-        "long": -123.1207,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-british-columbia.json"
+    },
+    {
+        "location_id": "canada-calgary-alberta",
+        "province_state": "Calgary, Alberta",
+        "country_region": "Canada",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-calgary-alberta.json"
+    },
+    {
+        "location_id": "canada-diamond-princess",
+        "province_state": "Diamond Princess",
+        "country_region": "Canada",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-diamond-princess.json"
+    },
+    {
+        "location_id": "canada-edmonton-alberta",
+        "province_state": "Edmonton, Alberta",
+        "country_region": "Canada",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-edmonton-alberta.json"
     },
     {
         "location_id": "canada-grand-princess",
         "province_state": "Grand Princess",
         "country_region": "Canada",
-        "lat": 37.6489,
-        "long": -122.6655,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-grand-princess.json"
+    },
+    {
+        "location_id": "canada-london-on",
+        "province_state": "London, ON",
+        "country_region": "Canada",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-london-on.json"
     },
     {
         "location_id": "canada-manitoba",
         "province_state": "Manitoba",
         "country_region": "Canada",
-        "lat": 53.7609,
-        "long": -98.8139,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-manitoba.json"
+    },
+    {
+        "location_id": "canada-montreal-qc",
+        "province_state": "Montreal, QC",
+        "country_region": "Canada",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-montreal-qc.json"
     },
     {
         "location_id": "canada-new-brunswick",
         "province_state": "New Brunswick",
         "country_region": "Canada",
-        "lat": 46.5653,
-        "long": -66.4619,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-new-brunswick.json"
     },
     {
         "location_id": "canada-newfoundland-and-labrador",
         "province_state": "Newfoundland and Labrador",
         "country_region": "Canada",
-        "lat": 53.1355,
-        "long": -57.6604,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-newfoundland-and-labrador.json"
     },
     {
         "location_id": "canada-northwest-territories",
         "province_state": "Northwest Territories",
         "country_region": "Canada",
-        "lat": 64.8255,
-        "long": -124.8457,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-northwest-territories.json"
     },
     {
         "location_id": "canada-nova-scotia",
         "province_state": "Nova Scotia",
         "country_region": "Canada",
-        "lat": 44.682,
-        "long": -63.7443,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-nova-scotia.json"
     },
     {
         "location_id": "canada-ontario",
         "province_state": "Ontario",
         "country_region": "Canada",
-        "lat": 51.2538,
-        "long": -85.3232,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-ontario.json"
     },
     {
         "location_id": "canada-prince-edward-island",
         "province_state": "Prince Edward Island",
         "country_region": "Canada",
-        "lat": 46.5107,
-        "long": -63.4168,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-prince-edward-island.json"
     },
     {
         "location_id": "canada-quebec",
         "province_state": "Quebec",
         "country_region": "Canada",
-        "lat": 52.9399,
-        "long": -73.5491,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-quebec.json"
+    },
+    {
+        "location_id": "canada-recovered",
+        "province_state": "Recovered",
+        "country_region": "Canada",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-recovered.json"
     },
     {
         "location_id": "canada-saskatchewan",
         "province_state": "Saskatchewan",
         "country_region": "Canada",
-        "lat": 52.9399,
-        "long": -106.4509,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-saskatchewan.json"
+    },
+    {
+        "location_id": "canada-toronto-on",
+        "province_state": "Toronto, ON",
+        "country_region": "Canada",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/canada-toronto-on.json"
     },
     {
         "location_id": "cape-verde",
         "province_state": "",
         "country_region": "Cape Verde",
-        "lat": 15.1111,
-        "long": -23.6167,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cape-verde.json"
+    },
+    {
+        "location_id": "cayman-islands",
+        "province_state": "",
+        "country_region": "Cayman Islands",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cayman-islands.json"
     },
     {
         "location_id": "central-african-republic",
         "province_state": "",
         "country_region": "Central African Republic",
-        "lat": 6.6111,
-        "long": 20.9394,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/central-african-republic.json"
     },
     {
         "location_id": "chad",
         "province_state": "",
         "country_region": "Chad",
-        "lat": 15.4542,
-        "long": 18.7322,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/chad.json"
+    },
+    {
+        "location_id": "channel-islands",
+        "province_state": "",
+        "country_region": "Channel Islands",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/channel-islands.json"
     },
     {
         "location_id": "chile",
         "province_state": "",
         "country_region": "Chile",
-        "lat": -35.6751,
-        "long": -71.543,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/chile.json"
+    },
+    {
+        "location_id": "china",
+        "province_state": "",
+        "country_region": "China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china.json"
     },
     {
         "location_id": "china-anhui",
         "province_state": "Anhui",
         "country_region": "China",
-        "lat": 31.8257,
-        "long": 117.2264,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-anhui.json"
     },
     {
         "location_id": "china-beijing",
         "province_state": "Beijing",
         "country_region": "China",
-        "lat": 40.1824,
-        "long": 116.4142,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-beijing.json"
     },
     {
         "location_id": "china-chongqing",
         "province_state": "Chongqing",
         "country_region": "China",
-        "lat": 30.0572,
-        "long": 107.874,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-chongqing.json"
     },
     {
         "location_id": "china-fujian",
         "province_state": "Fujian",
         "country_region": "China",
-        "lat": 26.0789,
-        "long": 117.9874,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-fujian.json"
     },
     {
         "location_id": "china-gansu",
         "province_state": "Gansu",
         "country_region": "China",
-        "lat": 37.8099,
-        "long": 101.0583,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-gansu.json"
     },
     {
         "location_id": "china-guangdong",
         "province_state": "Guangdong",
         "country_region": "China",
-        "lat": 23.3417,
-        "long": 113.4244,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-guangdong.json"
     },
     {
         "location_id": "china-guangxi",
         "province_state": "Guangxi",
         "country_region": "China",
-        "lat": 23.8298,
-        "long": 108.7881,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-guangxi.json"
     },
     {
         "location_id": "china-guizhou",
         "province_state": "Guizhou",
         "country_region": "China",
-        "lat": 26.8154,
-        "long": 106.8748,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-guizhou.json"
     },
     {
         "location_id": "china-hainan",
         "province_state": "Hainan",
         "country_region": "China",
-        "lat": 19.1959,
-        "long": 109.7453,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-hainan.json"
     },
     {
         "location_id": "china-hebei",
         "province_state": "Hebei",
         "country_region": "China",
-        "lat": 39.549,
-        "long": 116.1306,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-hebei.json"
     },
     {
         "location_id": "china-heilongjiang",
         "province_state": "Heilongjiang",
         "country_region": "China",
-        "lat": 47.862,
-        "long": 127.7615,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-heilongjiang.json"
     },
     {
         "location_id": "china-henan",
         "province_state": "Henan",
         "country_region": "China",
-        "lat": 33.882,
-        "long": 113.614,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-henan.json"
     },
     {
         "location_id": "china-hong-kong",
         "province_state": "Hong Kong",
         "country_region": "China",
-        "lat": 22.3,
-        "long": 114.2,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-hong-kong.json"
     },
     {
         "location_id": "china-hubei",
         "province_state": "Hubei",
         "country_region": "China",
-        "lat": 30.9756,
-        "long": 112.2707,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-hubei.json"
     },
     {
         "location_id": "china-hunan",
         "province_state": "Hunan",
         "country_region": "China",
-        "lat": 27.6104,
-        "long": 111.7088,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-hunan.json"
     },
     {
         "location_id": "china-inner-mongolia",
         "province_state": "Inner Mongolia",
         "country_region": "China",
-        "lat": 44.0935,
-        "long": 113.9448,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-inner-mongolia.json"
     },
     {
         "location_id": "china-jiangsu",
         "province_state": "Jiangsu",
         "country_region": "China",
-        "lat": 32.9711,
-        "long": 119.455,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-jiangsu.json"
     },
     {
         "location_id": "china-jiangxi",
         "province_state": "Jiangxi",
         "country_region": "China",
-        "lat": 27.614,
-        "long": 115.7221,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-jiangxi.json"
     },
     {
         "location_id": "china-jilin",
         "province_state": "Jilin",
         "country_region": "China",
-        "lat": 43.6661,
-        "long": 126.1923,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-jilin.json"
     },
     {
         "location_id": "china-liaoning",
         "province_state": "Liaoning",
         "country_region": "China",
-        "lat": 41.2956,
-        "long": 122.6085,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-liaoning.json"
     },
     {
         "location_id": "china-macau",
         "province_state": "Macau",
         "country_region": "China",
-        "lat": 22.1667,
-        "long": 113.55,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-macau.json"
     },
     {
         "location_id": "china-ningxia",
         "province_state": "Ningxia",
         "country_region": "China",
-        "lat": 37.2692,
-        "long": 106.1655,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-ningxia.json"
     },
     {
         "location_id": "china-qinghai",
         "province_state": "Qinghai",
         "country_region": "China",
-        "lat": 35.7452,
-        "long": 95.9956,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-qinghai.json"
     },
     {
         "location_id": "china-shaanxi",
         "province_state": "Shaanxi",
         "country_region": "China",
-        "lat": 35.1917,
-        "long": 108.8701,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-shaanxi.json"
     },
     {
         "location_id": "china-shandong",
         "province_state": "Shandong",
         "country_region": "China",
-        "lat": 36.3427,
-        "long": 118.1498,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-shandong.json"
     },
     {
         "location_id": "china-shanghai",
         "province_state": "Shanghai",
         "country_region": "China",
-        "lat": 31.202,
-        "long": 121.4491,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-shanghai.json"
     },
     {
         "location_id": "china-shanxi",
         "province_state": "Shanxi",
         "country_region": "China",
-        "lat": 37.5777,
-        "long": 112.2922,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-shanxi.json"
     },
     {
         "location_id": "china-sichuan",
         "province_state": "Sichuan",
         "country_region": "China",
-        "lat": 30.6171,
-        "long": 102.7103,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-sichuan.json"
     },
     {
         "location_id": "china-tianjin",
         "province_state": "Tianjin",
         "country_region": "China",
-        "lat": 39.3054,
-        "long": 117.323,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-tianjin.json"
     },
     {
         "location_id": "china-tibet",
         "province_state": "Tibet",
         "country_region": "China",
-        "lat": 31.6927,
-        "long": 88.0924,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-tibet.json"
     },
     {
         "location_id": "china-xinjiang",
         "province_state": "Xinjiang",
         "country_region": "China",
-        "lat": 41.1129,
-        "long": 85.2401,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-xinjiang.json"
     },
     {
         "location_id": "china-yunnan",
         "province_state": "Yunnan",
         "country_region": "China",
-        "lat": 24.974,
-        "long": 101.487,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-yunnan.json"
     },
     {
         "location_id": "china-zhejiang",
         "province_state": "Zhejiang",
         "country_region": "China",
-        "lat": 29.1832,
-        "long": 120.0934,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/china-zhejiang.json"
     },
     {
         "location_id": "colombia",
         "province_state": "",
         "country_region": "Colombia",
-        "lat": 4.5709,
-        "long": -74.2973,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/colombia.json"
     },
     {
         "location_id": "congo-brazzaville",
         "province_state": "",
         "country_region": "Congo (Brazzaville)",
-        "lat": -4.0383,
-        "long": 21.7587,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/congo-brazzaville.json"
     },
     {
         "location_id": "congo-kinshasa",
         "province_state": "",
         "country_region": "Congo (Kinshasa)",
-        "lat": -4.0383,
-        "long": 21.7587,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/congo-kinshasa.json"
     },
     {
         "location_id": "costa-rica",
         "province_state": "",
         "country_region": "Costa Rica",
-        "lat": 9.7489,
-        "long": -83.7534,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/costa-rica.json"
     },
     {
         "location_id": "cote-d-ivoire",
         "province_state": "",
         "country_region": "Cote d'Ivoire",
-        "lat": 7.54,
-        "long": -5.5471,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cote-d-ivoire.json"
     },
     {
         "location_id": "croatia",
         "province_state": "",
         "country_region": "Croatia",
-        "lat": 45.1,
-        "long": 15.2,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/croatia.json"
+    },
+    {
+        "location_id": "cruise-ship",
+        "province_state": "",
+        "country_region": "Cruise Ship",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cruise-ship.json"
     },
     {
         "location_id": "cruise-ship-diamond-princess",
         "province_state": "Diamond Princess",
         "country_region": "Cruise Ship",
-        "lat": 35.4437,
-        "long": 139.638,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cruise-ship-diamond-princess.json"
     },
     {
         "location_id": "cuba",
         "province_state": "",
         "country_region": "Cuba",
-        "lat": 22.0,
-        "long": -80.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cuba.json"
+    },
+    {
+        "location_id": "curacao",
+        "province_state": "",
+        "country_region": "Curacao",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/curacao.json"
     },
     {
         "location_id": "cyprus",
         "province_state": "",
         "country_region": "Cyprus",
-        "lat": 35.1264,
-        "long": 33.4299,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/cyprus.json"
+    },
+    {
+        "location_id": "czech-republic",
+        "province_state": "",
+        "country_region": "Czech Republic",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/czech-republic.json"
     },
     {
         "location_id": "czechia",
         "province_state": "",
         "country_region": "Czechia",
-        "lat": 49.8175,
-        "long": 15.473,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/czechia.json"
+    },
+    {
+        "location_id": "denmark",
+        "province_state": "",
+        "country_region": "Denmark",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/denmark.json"
     },
     {
         "location_id": "denmark-denmark",
         "province_state": "Denmark",
         "country_region": "Denmark",
-        "lat": 56.2639,
-        "long": 9.5018,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/denmark-denmark.json"
     },
     {
         "location_id": "denmark-faroe-islands",
         "province_state": "Faroe Islands",
         "country_region": "Denmark",
-        "lat": 61.8926,
-        "long": -6.9118,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/denmark-faroe-islands.json"
     },
     {
         "location_id": "denmark-greenland",
         "province_state": "Greenland",
         "country_region": "Denmark",
-        "lat": 71.7069,
-        "long": -42.6043,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/denmark-greenland.json"
+    },
+    {
+        "location_id": "diamond-princess",
+        "province_state": "",
+        "country_region": "Diamond Princess",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/diamond-princess.json"
     },
     {
         "location_id": "djibouti",
         "province_state": "",
         "country_region": "Djibouti",
-        "lat": 11.8251,
-        "long": 42.5903,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/djibouti.json"
     },
     {
         "location_id": "dominica",
         "province_state": "",
         "country_region": "Dominica",
-        "lat": 15.415,
-        "long": -61.371,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/dominica.json"
     },
     {
         "location_id": "dominican-republic",
         "province_state": "",
         "country_region": "Dominican Republic",
-        "lat": 18.7357,
-        "long": -70.1627,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/dominican-republic.json"
     },
     {
         "location_id": "east-timor",
         "province_state": "",
         "country_region": "East Timor",
-        "lat": -8.55,
-        "long": 125.56,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/east-timor.json"
     },
     {
         "location_id": "ecuador",
         "province_state": "",
         "country_region": "Ecuador",
-        "lat": -1.8312,
-        "long": -78.1834,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/ecuador.json"
     },
     {
         "location_id": "egypt",
         "province_state": "",
         "country_region": "Egypt",
-        "lat": 26.0,
-        "long": 30.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/egypt.json"
     },
     {
         "location_id": "el-salvador",
         "province_state": "",
         "country_region": "El Salvador",
-        "lat": 13.7942,
-        "long": -88.8965,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/el-salvador.json"
     },
     {
         "location_id": "equatorial-guinea",
         "province_state": "",
         "country_region": "Equatorial Guinea",
-        "lat": 1.5,
-        "long": 10.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/equatorial-guinea.json"
     },
     {
         "location_id": "eritrea",
         "province_state": "",
         "country_region": "Eritrea",
-        "lat": 15.1794,
-        "long": 39.7823,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/eritrea.json"
     },
     {
         "location_id": "estonia",
         "province_state": "",
         "country_region": "Estonia",
-        "lat": 58.5953,
-        "long": 25.0136,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/estonia.json"
     },
     {
         "location_id": "eswatini",
         "province_state": "",
         "country_region": "Eswatini",
-        "lat": -26.5225,
-        "long": 31.4659,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/eswatini.json"
     },
     {
         "location_id": "ethiopia",
         "province_state": "",
         "country_region": "Ethiopia",
-        "lat": 9.145,
-        "long": 40.4897,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/ethiopia.json"
+    },
+    {
+        "location_id": "faroe-islands",
+        "province_state": "",
+        "country_region": "Faroe Islands",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/faroe-islands.json"
     },
     {
         "location_id": "fiji",
         "province_state": "",
         "country_region": "Fiji",
-        "lat": -17.7134,
-        "long": 178.065,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/fiji.json"
     },
     {
         "location_id": "finland",
         "province_state": "",
         "country_region": "Finland",
-        "lat": 64.0,
-        "long": 26.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/finland.json"
+    },
+    {
+        "location_id": "france",
+        "province_state": "",
+        "country_region": "France",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france.json"
+    },
+    {
+        "location_id": "france-fench-guiana",
+        "province_state": "Fench Guiana",
+        "country_region": "France",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-fench-guiana.json"
     },
     {
         "location_id": "france-france",
         "province_state": "France",
         "country_region": "France",
-        "lat": 46.2276,
-        "long": 2.2137,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-france.json"
     },
     {
         "location_id": "france-french-guiana",
         "province_state": "French Guiana",
         "country_region": "France",
-        "lat": 3.9339,
-        "long": -53.1258,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-french-guiana.json"
     },
     {
         "location_id": "france-french-polynesia",
         "province_state": "French Polynesia",
         "country_region": "France",
-        "lat": -17.6797,
-        "long": 149.4068,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-french-polynesia.json"
     },
     {
         "location_id": "france-guadeloupe",
         "province_state": "Guadeloupe",
         "country_region": "France",
-        "lat": 16.25,
-        "long": -61.5833,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-guadeloupe.json"
+    },
+    {
+        "location_id": "france-martinique",
+        "province_state": "Martinique",
+        "country_region": "France",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-martinique.json"
     },
     {
         "location_id": "france-mayotte",
         "province_state": "Mayotte",
         "country_region": "France",
-        "lat": -12.8275,
-        "long": 45.1662,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-mayotte.json"
     },
     {
         "location_id": "france-new-caledonia",
         "province_state": "New Caledonia",
         "country_region": "France",
-        "lat": -20.9043,
-        "long": 165.618,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-new-caledonia.json"
     },
     {
         "location_id": "france-reunion",
         "province_state": "Reunion",
         "country_region": "France",
-        "lat": -21.1351,
-        "long": 55.2471,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-reunion.json"
     },
     {
         "location_id": "france-saint-barthelemy",
         "province_state": "Saint Barthelemy",
         "country_region": "France",
-        "lat": 17.9,
-        "long": -62.8333,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-saint-barthelemy.json"
     },
     {
         "location_id": "france-st-martin",
         "province_state": "St Martin",
         "country_region": "France",
-        "lat": 18.0708,
-        "long": -63.0501,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/france-st-martin.json"
     },
     {
         "location_id": "french-guiana",
         "province_state": "",
         "country_region": "French Guiana",
-        "lat": 3.9339,
-        "long": -53.1258,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/french-guiana.json"
     },
     {
         "location_id": "gabon",
         "province_state": "",
         "country_region": "Gabon",
-        "lat": -0.8037,
-        "long": 11.6094,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/gabon.json"
+    },
+    {
+        "location_id": "gambia",
+        "province_state": "",
+        "country_region": "Gambia",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/gambia.json"
     },
     {
         "location_id": "gambia-the",
         "province_state": "",
         "country_region": "Gambia, The",
-        "lat": 13.4432,
-        "long": -15.3101,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/gambia-the.json"
     },
     {
         "location_id": "georgia",
         "province_state": "",
         "country_region": "Georgia",
-        "lat": 42.3154,
-        "long": 43.3569,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/georgia.json"
     },
     {
         "location_id": "germany",
         "province_state": "",
         "country_region": "Germany",
-        "lat": 51.0,
-        "long": 9.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/germany.json"
+    },
+    {
+        "location_id": "germany-bavaria",
+        "province_state": "Bavaria",
+        "country_region": "Germany",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/germany-bavaria.json"
     },
     {
         "location_id": "ghana",
         "province_state": "",
         "country_region": "Ghana",
-        "lat": 7.9465,
-        "long": -1.0232,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/ghana.json"
+    },
+    {
+        "location_id": "gibraltar",
+        "province_state": "",
+        "country_region": "Gibraltar",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/gibraltar.json"
     },
     {
         "location_id": "greece",
         "province_state": "",
         "country_region": "Greece",
-        "lat": 39.0742,
-        "long": 21.8243,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/greece.json"
     },
     {
         "location_id": "greenland",
         "province_state": "",
         "country_region": "Greenland",
-        "lat": 72.0,
-        "long": -40.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/greenland.json"
     },
     {
         "location_id": "grenada",
         "province_state": "",
         "country_region": "Grenada",
-        "lat": 12.1165,
-        "long": -61.679,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/grenada.json"
     },
     {
         "location_id": "guadeloupe",
         "province_state": "",
         "country_region": "Guadeloupe",
-        "lat": 16.265,
-        "long": -61.551,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/guadeloupe.json"
     },
     {
         "location_id": "guam",
         "province_state": "",
         "country_region": "Guam",
-        "lat": 13.4443,
-        "long": 144.7937,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/guam.json"
     },
     {
         "location_id": "guatemala",
         "province_state": "",
         "country_region": "Guatemala",
-        "lat": 15.7835,
-        "long": -90.2308,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/guatemala.json"
     },
     {
         "location_id": "guernsey",
         "province_state": "",
         "country_region": "Guernsey",
-        "lat": 49.45,
-        "long": -2.58,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/guernsey.json"
     },
     {
         "location_id": "guinea",
         "province_state": "",
         "country_region": "Guinea",
-        "lat": 9.9456,
-        "long": -9.6966,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/guinea.json"
+    },
+    {
+        "location_id": "guinea-bissau",
+        "province_state": "",
+        "country_region": "Guinea-Bissau",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/guinea-bissau.json"
     },
     {
         "location_id": "guyana",
         "province_state": "",
         "country_region": "Guyana",
-        "lat": 5.0,
-        "long": -58.75,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/guyana.json"
     },
     {
         "location_id": "haiti",
         "province_state": "",
         "country_region": "Haiti",
-        "lat": 18.9712,
-        "long": -72.2852,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/haiti.json"
     },
     {
         "location_id": "holy-see",
         "province_state": "",
         "country_region": "Holy See",
-        "lat": 41.9029,
-        "long": 12.4534,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/holy-see.json"
     },
     {
         "location_id": "honduras",
         "province_state": "",
         "country_region": "Honduras",
-        "lat": 15.2,
-        "long": -86.2419,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/honduras.json"
+    },
+    {
+        "location_id": "hong-kong",
+        "province_state": "",
+        "country_region": "Hong Kong",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/hong-kong.json"
+    },
+    {
+        "location_id": "hong-kong-hong-kong",
+        "province_state": "Hong Kong",
+        "country_region": "Hong Kong",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/hong-kong-hong-kong.json"
+    },
+    {
+        "location_id": "hong-kong-sar",
+        "province_state": "",
+        "country_region": "Hong Kong SAR",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/hong-kong-sar.json"
+    },
+    {
+        "location_id": "hong-kong-sar-hong-kong",
+        "province_state": "Hong Kong",
+        "country_region": "Hong Kong SAR",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/hong-kong-sar-hong-kong.json"
     },
     {
         "location_id": "hungary",
         "province_state": "",
         "country_region": "Hungary",
-        "lat": 47.1625,
-        "long": 19.5033,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/hungary.json"
     },
     {
         "location_id": "iceland",
         "province_state": "",
         "country_region": "Iceland",
-        "lat": 64.9631,
-        "long": -19.0208,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/iceland.json"
     },
     {
         "location_id": "india",
         "province_state": "",
         "country_region": "India",
-        "lat": 21.0,
-        "long": 78.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/india.json"
     },
     {
         "location_id": "indonesia",
         "province_state": "",
         "country_region": "Indonesia",
-        "lat": -0.7893,
-        "long": 113.9213,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/indonesia.json"
     },
     {
         "location_id": "iran",
         "province_state": "",
         "country_region": "Iran",
-        "lat": 32.0,
-        "long": 53.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/iran.json"
+    },
+    {
+        "location_id": "iran-islamic-republic-of",
+        "province_state": "",
+        "country_region": "Iran (Islamic Republic of)",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/iran-islamic-republic-of.json"
     },
     {
         "location_id": "iraq",
         "province_state": "",
         "country_region": "Iraq",
-        "lat": 33.0,
-        "long": 44.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/iraq.json"
+    },
+    {
+        "location_id": "iraq-none",
+        "province_state": "None",
+        "country_region": "Iraq",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/iraq-none.json"
     },
     {
         "location_id": "ireland",
         "province_state": "",
         "country_region": "Ireland",
-        "lat": 53.1424,
-        "long": -7.6921,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/ireland.json"
     },
     {
         "location_id": "israel",
         "province_state": "",
         "country_region": "Israel",
-        "lat": 31.0,
-        "long": 35.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/israel.json"
+    },
+    {
+        "location_id": "israel-from-diamond-princess",
+        "province_state": "From Diamond Princess",
+        "country_region": "Israel",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/israel-from-diamond-princess.json"
     },
     {
         "location_id": "italy",
         "province_state": "",
         "country_region": "Italy",
-        "lat": 43.0,
-        "long": 12.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/italy.json"
+    },
+    {
+        "location_id": "ivory-coast",
+        "province_state": "",
+        "country_region": "Ivory Coast",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/ivory-coast.json"
     },
     {
         "location_id": "jamaica",
         "province_state": "",
         "country_region": "Jamaica",
-        "lat": 18.1096,
-        "long": -77.2975,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/jamaica.json"
     },
     {
         "location_id": "japan",
         "province_state": "",
         "country_region": "Japan",
-        "lat": 36.0,
-        "long": 138.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/japan.json"
     },
     {
         "location_id": "jersey",
         "province_state": "",
         "country_region": "Jersey",
-        "lat": 49.19,
-        "long": -2.11,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/jersey.json"
     },
     {
         "location_id": "jordan",
         "province_state": "",
         "country_region": "Jordan",
-        "lat": 31.24,
-        "long": 36.51,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/jordan.json"
     },
     {
         "location_id": "kazakhstan",
         "province_state": "",
         "country_region": "Kazakhstan",
-        "lat": 48.0196,
-        "long": 66.9237,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/kazakhstan.json"
     },
     {
         "location_id": "kenya",
         "province_state": "",
         "country_region": "Kenya",
-        "lat": -0.0236,
-        "long": 37.9062,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/kenya.json"
     },
     {
         "location_id": "korea-south",
         "province_state": "",
         "country_region": "Korea, South",
-        "lat": 36.0,
-        "long": 128.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/korea-south.json"
     },
     {
         "location_id": "kosovo",
         "province_state": "",
         "country_region": "Kosovo",
-        "lat": 42.6026,
-        "long": 20.903,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/kosovo.json"
     },
     {
         "location_id": "kuwait",
         "province_state": "",
         "country_region": "Kuwait",
-        "lat": 29.5,
-        "long": 47.75,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/kuwait.json"
     },
     {
         "location_id": "kyrgyzstan",
         "province_state": "",
         "country_region": "Kyrgyzstan",
-        "lat": 41.2044,
-        "long": 74.7661,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/kyrgyzstan.json"
+    },
+    {
+        "location_id": "laos",
+        "province_state": "",
+        "country_region": "Laos",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/laos.json"
     },
     {
         "location_id": "latvia",
         "province_state": "",
         "country_region": "Latvia",
-        "lat": 56.8796,
-        "long": 24.6032,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/latvia.json"
     },
     {
         "location_id": "lebanon",
         "province_state": "",
         "country_region": "Lebanon",
-        "lat": 33.8547,
-        "long": 35.8623,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/lebanon.json"
+    },
+    {
+        "location_id": "lebanon-none",
+        "province_state": "None",
+        "country_region": "Lebanon",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/lebanon-none.json"
     },
     {
         "location_id": "liberia",
         "province_state": "",
         "country_region": "Liberia",
-        "lat": 6.4281,
-        "long": -9.4295,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/liberia.json"
+    },
+    {
+        "location_id": "libya",
+        "province_state": "",
+        "country_region": "Libya",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/libya.json"
     },
     {
         "location_id": "liechtenstein",
         "province_state": "",
         "country_region": "Liechtenstein",
-        "lat": 47.14,
-        "long": 9.55,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/liechtenstein.json"
     },
     {
         "location_id": "lithuania",
         "province_state": "",
         "country_region": "Lithuania",
-        "lat": 55.1694,
-        "long": 23.8813,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/lithuania.json"
     },
     {
         "location_id": "luxembourg",
         "province_state": "",
         "country_region": "Luxembourg",
-        "lat": 49.8153,
-        "long": 6.1296,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/luxembourg.json"
+    },
+    {
+        "location_id": "macao-sar",
+        "province_state": "",
+        "country_region": "Macao SAR",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/macao-sar.json"
+    },
+    {
+        "location_id": "macao-sar-macau",
+        "province_state": "Macau",
+        "country_region": "Macao SAR",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/macao-sar-macau.json"
+    },
+    {
+        "location_id": "macau",
+        "province_state": "",
+        "country_region": "Macau",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/macau.json"
+    },
+    {
+        "location_id": "macau-macau",
+        "province_state": "Macau",
+        "country_region": "Macau",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/macau-macau.json"
     },
     {
         "location_id": "madagascar",
         "province_state": "",
         "country_region": "Madagascar",
-        "lat": -18.7669,
-        "long": 46.8691,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/madagascar.json"
+    },
+    {
+        "location_id": "mainland-china",
+        "province_state": "",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china.json"
+    },
+    {
+        "location_id": "mainland-china-anhui",
+        "province_state": "Anhui",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-anhui.json"
+    },
+    {
+        "location_id": "mainland-china-beijing",
+        "province_state": "Beijing",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-beijing.json"
+    },
+    {
+        "location_id": "mainland-china-chongqing",
+        "province_state": "Chongqing",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-chongqing.json"
+    },
+    {
+        "location_id": "mainland-china-fujian",
+        "province_state": "Fujian",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-fujian.json"
+    },
+    {
+        "location_id": "mainland-china-gansu",
+        "province_state": "Gansu",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-gansu.json"
+    },
+    {
+        "location_id": "mainland-china-guangdong",
+        "province_state": "Guangdong",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-guangdong.json"
+    },
+    {
+        "location_id": "mainland-china-guangxi",
+        "province_state": "Guangxi",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-guangxi.json"
+    },
+    {
+        "location_id": "mainland-china-guizhou",
+        "province_state": "Guizhou",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-guizhou.json"
+    },
+    {
+        "location_id": "mainland-china-hainan",
+        "province_state": "Hainan",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-hainan.json"
+    },
+    {
+        "location_id": "mainland-china-hebei",
+        "province_state": "Hebei",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-hebei.json"
+    },
+    {
+        "location_id": "mainland-china-heilongjiang",
+        "province_state": "Heilongjiang",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-heilongjiang.json"
+    },
+    {
+        "location_id": "mainland-china-henan",
+        "province_state": "Henan",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-henan.json"
+    },
+    {
+        "location_id": "mainland-china-hubei",
+        "province_state": "Hubei",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-hubei.json"
+    },
+    {
+        "location_id": "mainland-china-hunan",
+        "province_state": "Hunan",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-hunan.json"
+    },
+    {
+        "location_id": "mainland-china-inner-mongolia",
+        "province_state": "Inner Mongolia",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-inner-mongolia.json"
+    },
+    {
+        "location_id": "mainland-china-jiangsu",
+        "province_state": "Jiangsu",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-jiangsu.json"
+    },
+    {
+        "location_id": "mainland-china-jiangxi",
+        "province_state": "Jiangxi",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-jiangxi.json"
+    },
+    {
+        "location_id": "mainland-china-jilin",
+        "province_state": "Jilin",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-jilin.json"
+    },
+    {
+        "location_id": "mainland-china-liaoning",
+        "province_state": "Liaoning",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-liaoning.json"
+    },
+    {
+        "location_id": "mainland-china-ningxia",
+        "province_state": "Ningxia",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-ningxia.json"
+    },
+    {
+        "location_id": "mainland-china-qinghai",
+        "province_state": "Qinghai",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-qinghai.json"
+    },
+    {
+        "location_id": "mainland-china-shaanxi",
+        "province_state": "Shaanxi",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-shaanxi.json"
+    },
+    {
+        "location_id": "mainland-china-shandong",
+        "province_state": "Shandong",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-shandong.json"
+    },
+    {
+        "location_id": "mainland-china-shanghai",
+        "province_state": "Shanghai",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-shanghai.json"
+    },
+    {
+        "location_id": "mainland-china-shanxi",
+        "province_state": "Shanxi",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-shanxi.json"
+    },
+    {
+        "location_id": "mainland-china-sichuan",
+        "province_state": "Sichuan",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-sichuan.json"
+    },
+    {
+        "location_id": "mainland-china-tianjin",
+        "province_state": "Tianjin",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-tianjin.json"
+    },
+    {
+        "location_id": "mainland-china-tibet",
+        "province_state": "Tibet",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-tibet.json"
+    },
+    {
+        "location_id": "mainland-china-xinjiang",
+        "province_state": "Xinjiang",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-xinjiang.json"
+    },
+    {
+        "location_id": "mainland-china-yunnan",
+        "province_state": "Yunnan",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-yunnan.json"
+    },
+    {
+        "location_id": "mainland-china-zhejiang",
+        "province_state": "Zhejiang",
+        "country_region": "Mainland China",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mainland-china-zhejiang.json"
     },
     {
         "location_id": "malaysia",
         "province_state": "",
         "country_region": "Malaysia",
-        "lat": 2.5,
-        "long": 112.5,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/malaysia.json"
     },
     {
         "location_id": "maldives",
         "province_state": "",
         "country_region": "Maldives",
-        "lat": 3.2028,
-        "long": 73.2207,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/maldives.json"
+    },
+    {
+        "location_id": "mali",
+        "province_state": "",
+        "country_region": "Mali",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mali.json"
     },
     {
         "location_id": "malta",
         "province_state": "",
         "country_region": "Malta",
-        "lat": 35.9375,
-        "long": 14.3754,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/malta.json"
     },
     {
         "location_id": "martinique",
         "province_state": "",
         "country_region": "Martinique",
-        "lat": 14.6415,
-        "long": -61.0242,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/martinique.json"
     },
     {
         "location_id": "mauritania",
         "province_state": "",
         "country_region": "Mauritania",
-        "lat": 21.0079,
-        "long": 10.9408,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mauritania.json"
     },
     {
         "location_id": "mauritius",
         "province_state": "",
         "country_region": "Mauritius",
-        "lat": -20.2,
-        "long": 57.5,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mauritius.json"
     },
     {
         "location_id": "mayotte",
         "province_state": "",
         "country_region": "Mayotte",
-        "lat": -12.8275,
-        "long": 45.1662,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mayotte.json"
     },
     {
         "location_id": "mexico",
         "province_state": "",
         "country_region": "Mexico",
-        "lat": 23.6345,
-        "long": -102.5528,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mexico.json"
     },
     {
         "location_id": "moldova",
         "province_state": "",
         "country_region": "Moldova",
-        "lat": 47.4116,
-        "long": 28.3699,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/moldova.json"
     },
     {
         "location_id": "monaco",
         "province_state": "",
         "country_region": "Monaco",
-        "lat": 43.7333,
-        "long": 7.4167,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/monaco.json"
     },
     {
         "location_id": "mongolia",
         "province_state": "",
         "country_region": "Mongolia",
-        "lat": 46.8625,
-        "long": 103.8467,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mongolia.json"
     },
     {
         "location_id": "montenegro",
         "province_state": "",
         "country_region": "Montenegro",
-        "lat": 42.5,
-        "long": 19.3,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/montenegro.json"
     },
     {
         "location_id": "morocco",
         "province_state": "",
         "country_region": "Morocco",
-        "lat": 31.7917,
-        "long": -7.0926,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/morocco.json"
     },
     {
         "location_id": "mozambique",
         "province_state": "",
         "country_region": "Mozambique",
-        "lat": -18.6657,
-        "long": 35.5296,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/mozambique.json"
     },
     {
         "location_id": "namibia",
         "province_state": "",
         "country_region": "Namibia",
-        "lat": -22.9576,
-        "long": 18.4904,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/namibia.json"
     },
     {
         "location_id": "nepal",
         "province_state": "",
         "country_region": "Nepal",
-        "lat": 28.1667,
-        "long": 84.25,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/nepal.json"
+    },
+    {
+        "location_id": "netherlands",
+        "province_state": "",
+        "country_region": "Netherlands",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/netherlands.json"
     },
     {
         "location_id": "netherlands-aruba",
         "province_state": "Aruba",
         "country_region": "Netherlands",
-        "lat": 12.5186,
-        "long": -70.0358,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/netherlands-aruba.json"
     },
     {
         "location_id": "netherlands-curacao",
         "province_state": "Curacao",
         "country_region": "Netherlands",
-        "lat": 12.1696,
-        "long": -68.99,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/netherlands-curacao.json"
     },
     {
         "location_id": "netherlands-netherlands",
         "province_state": "Netherlands",
         "country_region": "Netherlands",
-        "lat": 52.1326,
-        "long": 5.2913,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/netherlands-netherlands.json"
     },
     {
         "location_id": "netherlands-sint-maarten",
         "province_state": "Sint Maarten",
         "country_region": "Netherlands",
-        "lat": 18.0425,
-        "long": -63.0548,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/netherlands-sint-maarten.json"
     },
     {
         "location_id": "new-zealand",
         "province_state": "",
         "country_region": "New Zealand",
-        "lat": -40.9006,
-        "long": 174.886,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/new-zealand.json"
     },
     {
         "location_id": "nicaragua",
         "province_state": "",
         "country_region": "Nicaragua",
-        "lat": 12.8654,
-        "long": -85.2072,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/nicaragua.json"
     },
     {
         "location_id": "niger",
         "province_state": "",
         "country_region": "Niger",
-        "lat": 17.6078,
-        "long": 8.0817,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/niger.json"
     },
     {
         "location_id": "nigeria",
         "province_state": "",
         "country_region": "Nigeria",
-        "lat": 9.082,
-        "long": 8.6753,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/nigeria.json"
+    },
+    {
+        "location_id": "north-ireland",
+        "province_state": "",
+        "country_region": "North Ireland",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/north-ireland.json"
     },
     {
         "location_id": "north-macedonia",
         "province_state": "",
         "country_region": "North Macedonia",
-        "lat": 41.6086,
-        "long": 21.7453,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/north-macedonia.json"
     },
     {
         "location_id": "norway",
         "province_state": "",
         "country_region": "Norway",
-        "lat": 60.472,
-        "long": 8.4689,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/norway.json"
+    },
+    {
+        "location_id": "occupied-palestinian-territory",
+        "province_state": "",
+        "country_region": "occupied Palestinian territory",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/occupied-palestinian-territory.json"
     },
     {
         "location_id": "oman",
         "province_state": "",
         "country_region": "Oman",
-        "lat": 21.0,
-        "long": 57.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/oman.json"
+    },
+    {
+        "location_id": "others",
+        "province_state": "",
+        "country_region": "Others",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/others.json"
+    },
+    {
+        "location_id": "others-cruise-ship",
+        "province_state": "Cruise Ship",
+        "country_region": "Others",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/others-cruise-ship.json"
+    },
+    {
+        "location_id": "others-diamond-princess-cruise-ship",
+        "province_state": "Diamond Princess cruise ship",
+        "country_region": "Others",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/others-diamond-princess-cruise-ship.json"
     },
     {
         "location_id": "pakistan",
         "province_state": "",
         "country_region": "Pakistan",
-        "lat": 30.3753,
-        "long": 69.3451,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/pakistan.json"
+    },
+    {
+        "location_id": "palestine",
+        "province_state": "",
+        "country_region": "Palestine",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/palestine.json"
     },
     {
         "location_id": "panama",
         "province_state": "",
         "country_region": "Panama",
-        "lat": 8.538,
-        "long": -80.7821,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/panama.json"
     },
     {
         "location_id": "papua-new-guinea",
         "province_state": "",
         "country_region": "Papua New Guinea",
-        "lat": -6.315,
-        "long": 143.9555,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/papua-new-guinea.json"
     },
     {
         "location_id": "paraguay",
         "province_state": "",
         "country_region": "Paraguay",
-        "lat": -23.4425,
-        "long": -58.4438,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/paraguay.json"
     },
     {
         "location_id": "peru",
         "province_state": "",
         "country_region": "Peru",
-        "lat": -9.19,
-        "long": -75.0152,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/peru.json"
     },
     {
         "location_id": "philippines",
         "province_state": "",
         "country_region": "Philippines",
-        "lat": 13.0,
-        "long": 122.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/philippines.json"
     },
     {
         "location_id": "poland",
         "province_state": "",
         "country_region": "Poland",
-        "lat": 51.9194,
-        "long": 19.1451,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/poland.json"
     },
     {
         "location_id": "portugal",
         "province_state": "",
         "country_region": "Portugal",
-        "lat": 39.3999,
-        "long": -8.2245,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/portugal.json"
     },
     {
         "location_id": "puerto-rico",
         "province_state": "",
         "country_region": "Puerto Rico",
-        "lat": 18.2,
-        "long": -66.5,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/puerto-rico.json"
     },
     {
         "location_id": "qatar",
         "province_state": "",
         "country_region": "Qatar",
-        "lat": 25.3548,
-        "long": 51.1839,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/qatar.json"
+    },
+    {
+        "location_id": "republic-of-ireland",
+        "province_state": "",
+        "country_region": "Republic of Ireland",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/republic-of-ireland.json"
+    },
+    {
+        "location_id": "republic-of-korea",
+        "province_state": "",
+        "country_region": "Republic of Korea",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/republic-of-korea.json"
+    },
+    {
+        "location_id": "republic-of-moldova",
+        "province_state": "",
+        "country_region": "Republic of Moldova",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/republic-of-moldova.json"
     },
     {
         "location_id": "republic-of-the-congo",
         "province_state": "",
         "country_region": "Republic of the Congo",
-        "lat": -1.44,
-        "long": 15.556,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/republic-of-the-congo.json"
     },
     {
         "location_id": "reunion",
         "province_state": "",
         "country_region": "Reunion",
-        "lat": -21.1151,
-        "long": 55.5364,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/reunion.json"
     },
     {
         "location_id": "romania",
         "province_state": "",
         "country_region": "Romania",
-        "lat": 45.9432,
-        "long": 24.9668,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/romania.json"
     },
     {
         "location_id": "russia",
         "province_state": "",
         "country_region": "Russia",
-        "lat": 60.0,
-        "long": 90.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/russia.json"
+    },
+    {
+        "location_id": "russian-federation",
+        "province_state": "",
+        "country_region": "Russian Federation",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/russian-federation.json"
     },
     {
         "location_id": "rwanda",
         "province_state": "",
         "country_region": "Rwanda",
-        "lat": -1.9403,
-        "long": 29.8739,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/rwanda.json"
+    },
+    {
+        "location_id": "saint-barthelemy",
+        "province_state": "",
+        "country_region": "Saint Barthelemy",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/saint-barthelemy.json"
+    },
+    {
+        "location_id": "saint-kitts-and-nevis",
+        "province_state": "",
+        "country_region": "Saint Kitts and Nevis",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/saint-kitts-and-nevis.json"
     },
     {
         "location_id": "saint-lucia",
         "province_state": "",
         "country_region": "Saint Lucia",
-        "lat": 13.9094,
-        "long": -60.9789,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/saint-lucia.json"
+    },
+    {
+        "location_id": "saint-martin",
+        "province_state": "",
+        "country_region": "Saint Martin",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/saint-martin.json"
     },
     {
         "location_id": "saint-vincent-and-the-grenadines",
         "province_state": "",
         "country_region": "Saint Vincent and the Grenadines",
-        "lat": 12.9843,
-        "long": -61.2872,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/saint-vincent-and-the-grenadines.json"
     },
     {
         "location_id": "san-marino",
         "province_state": "",
         "country_region": "San Marino",
-        "lat": 43.9424,
-        "long": 12.4578,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/san-marino.json"
     },
     {
         "location_id": "saudi-arabia",
         "province_state": "",
         "country_region": "Saudi Arabia",
-        "lat": 24.0,
-        "long": 45.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/saudi-arabia.json"
     },
     {
         "location_id": "senegal",
         "province_state": "",
         "country_region": "Senegal",
-        "lat": 14.4974,
-        "long": -14.4524,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/senegal.json"
     },
     {
         "location_id": "serbia",
         "province_state": "",
         "country_region": "Serbia",
-        "lat": 44.0165,
-        "long": 21.0059,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/serbia.json"
     },
     {
         "location_id": "seychelles",
         "province_state": "",
         "country_region": "Seychelles",
-        "lat": -4.6796,
-        "long": 55.492,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/seychelles.json"
     },
     {
         "location_id": "singapore",
         "province_state": "",
         "country_region": "Singapore",
-        "lat": 1.2833,
-        "long": 103.8333,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/singapore.json"
     },
     {
         "location_id": "slovakia",
         "province_state": "",
         "country_region": "Slovakia",
-        "lat": 48.669,
-        "long": 19.699,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/slovakia.json"
     },
     {
         "location_id": "slovenia",
         "province_state": "",
         "country_region": "Slovenia",
-        "lat": 46.1512,
-        "long": 14.9955,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/slovenia.json"
     },
     {
         "location_id": "somalia",
         "province_state": "",
         "country_region": "Somalia",
-        "lat": 5.1521,
-        "long": 46.1996,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/somalia.json"
     },
     {
         "location_id": "south-africa",
         "province_state": "",
         "country_region": "South Africa",
-        "lat": -30.5595,
-        "long": 22.9375,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/south-africa.json"
+    },
+    {
+        "location_id": "south-korea",
+        "province_state": "",
+        "country_region": "South Korea",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/south-korea.json"
     },
     {
         "location_id": "spain",
         "province_state": "",
         "country_region": "Spain",
-        "lat": 40.0,
-        "long": -4.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/spain.json"
     },
     {
         "location_id": "sri-lanka",
         "province_state": "",
         "country_region": "Sri Lanka",
-        "lat": 7.0,
-        "long": 81.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/sri-lanka.json"
+    },
+    {
+        "location_id": "st-martin",
+        "province_state": "",
+        "country_region": "St. Martin",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/st-martin.json"
     },
     {
         "location_id": "sudan",
         "province_state": "",
         "country_region": "Sudan",
-        "lat": 12.8628,
-        "long": 30.2176,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/sudan.json"
     },
     {
         "location_id": "suriname",
         "province_state": "",
         "country_region": "Suriname",
-        "lat": 3.9193,
-        "long": -56.0278,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/suriname.json"
     },
     {
         "location_id": "sweden",
         "province_state": "",
         "country_region": "Sweden",
-        "lat": 63.0,
-        "long": 16.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/sweden.json"
     },
     {
         "location_id": "switzerland",
         "province_state": "",
         "country_region": "Switzerland",
-        "lat": 46.8182,
-        "long": 8.2275,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/switzerland.json"
     },
     {
         "location_id": "syria",
         "province_state": "",
         "country_region": "Syria",
-        "lat": 34.8021,
-        "long": 38.9968,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/syria.json"
+    },
+    {
+        "location_id": "taipei-and-environs",
+        "province_state": "",
+        "country_region": "Taipei and environs",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/taipei-and-environs.json"
+    },
+    {
+        "location_id": "taipei-and-environs-taiwan",
+        "province_state": "Taiwan",
+        "country_region": "Taipei and environs",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/taipei-and-environs-taiwan.json"
+    },
+    {
+        "location_id": "taiwan",
+        "province_state": "",
+        "country_region": "Taiwan",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/taiwan.json"
     },
     {
         "location_id": "taiwan",
         "province_state": "",
         "country_region": "Taiwan*",
-        "lat": 23.7,
-        "long": 121.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/taiwan.json"
+    },
+    {
+        "location_id": "taiwan-taiwan",
+        "province_state": "Taiwan",
+        "country_region": "Taiwan",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/taiwan-taiwan.json"
     },
     {
         "location_id": "tanzania",
         "province_state": "",
         "country_region": "Tanzania",
-        "lat": -6.369,
-        "long": 34.8888,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/tanzania.json"
     },
     {
         "location_id": "thailand",
         "province_state": "",
         "country_region": "Thailand",
-        "lat": 15.0,
-        "long": 101.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/thailand.json"
     },
     {
         "location_id": "the-bahamas",
         "province_state": "",
         "country_region": "The Bahamas",
-        "lat": 24.25,
-        "long": -76.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/the-bahamas.json"
     },
     {
         "location_id": "the-gambia",
         "province_state": "",
         "country_region": "The Gambia",
-        "lat": 13.4667,
-        "long": -16.6,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/the-gambia.json"
     },
     {
         "location_id": "timor-leste",
         "province_state": "",
         "country_region": "Timor-Leste",
-        "lat": -8.8742,
-        "long": 125.7275,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/timor-leste.json"
     },
     {
         "location_id": "togo",
         "province_state": "",
         "country_region": "Togo",
-        "lat": 8.6195,
-        "long": 0.8248,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/togo.json"
     },
     {
         "location_id": "trinidad-and-tobago",
         "province_state": "",
         "country_region": "Trinidad and Tobago",
-        "lat": 10.6918,
-        "long": -61.2225,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/trinidad-and-tobago.json"
     },
     {
         "location_id": "tunisia",
         "province_state": "",
         "country_region": "Tunisia",
-        "lat": 34.0,
-        "long": 9.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/tunisia.json"
     },
     {
         "location_id": "turkey",
         "province_state": "",
         "country_region": "Turkey",
-        "lat": 38.9637,
-        "long": 35.2433,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/turkey.json"
     },
     {
         "location_id": "uganda",
         "province_state": "",
         "country_region": "Uganda",
-        "lat": 1.0,
-        "long": 32.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/uganda.json"
+    },
+    {
+        "location_id": "uk",
+        "province_state": "",
+        "country_region": "UK",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/uk.json"
     },
     {
         "location_id": "ukraine",
         "province_state": "",
         "country_region": "Ukraine",
-        "lat": 48.3794,
-        "long": 31.1656,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/ukraine.json"
     },
     {
         "location_id": "united-arab-emirates",
         "province_state": "",
         "country_region": "United Arab Emirates",
-        "lat": 24.0,
-        "long": 54.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-arab-emirates.json"
+    },
+    {
+        "location_id": "united-kingdom",
+        "province_state": "",
+        "country_region": "United Kingdom",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom.json"
     },
     {
         "location_id": "united-kingdom-bermuda",
         "province_state": "Bermuda",
         "country_region": "United Kingdom",
-        "lat": 32.3078,
-        "long": -64.7505,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-bermuda.json"
     },
     {
         "location_id": "united-kingdom-cayman-islands",
         "province_state": "Cayman Islands",
         "country_region": "United Kingdom",
-        "lat": 19.3133,
-        "long": -81.2546,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-cayman-islands.json"
     },
     {
         "location_id": "united-kingdom-channel-islands",
         "province_state": "Channel Islands",
         "country_region": "United Kingdom",
-        "lat": 49.3723,
-        "long": -2.3644,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-channel-islands.json"
     },
     {
         "location_id": "united-kingdom-gibraltar",
         "province_state": "Gibraltar",
         "country_region": "United Kingdom",
-        "lat": 36.1408,
-        "long": -5.3536,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-gibraltar.json"
     },
     {
         "location_id": "united-kingdom-isle-of-man",
         "province_state": "Isle of Man",
         "country_region": "United Kingdom",
-        "lat": 54.2361,
-        "long": -4.5481,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-isle-of-man.json"
     },
     {
         "location_id": "united-kingdom-montserrat",
         "province_state": "Montserrat",
         "country_region": "United Kingdom",
-        "lat": 16.7425,
-        "long": -62.1874,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-montserrat.json"
+    },
+    {
+        "location_id": "united-kingdom-uk",
+        "province_state": "UK",
+        "country_region": "United Kingdom",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-uk.json"
     },
     {
         "location_id": "united-kingdom-united-kingdom",
         "province_state": "United Kingdom",
         "country_region": "United Kingdom",
-        "lat": 55.3781,
-        "long": -3.4360000000000004,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/united-kingdom-united-kingdom.json"
     },
     {
         "location_id": "uruguay",
         "province_state": "",
         "country_region": "Uruguay",
-        "lat": -32.5228,
-        "long": -55.7658,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/uruguay.json"
     },
     {
-        "location_id": "us-adams-in",
-        "province_state": "Adams, IN",
+        "location_id": "us",
+        "province_state": "",
         "country_region": "US",
-        "lat": 39.8522,
-        "long": -77.2865,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-adams-in.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us.json"
     },
     {
         "location_id": "us-alabama",
         "province_state": "Alabama",
         "country_region": "US",
-        "lat": 32.3182,
-        "long": -86.9023,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-alabama.json"
-    },
-    {
-        "location_id": "us-alachua-fl",
-        "province_state": "Alachua, FL",
-        "country_region": "US",
-        "lat": 29.7938,
-        "long": -82.4944,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-alachua-fl.json"
     },
     {
         "location_id": "us-alameda-county-ca",
         "province_state": "Alameda County, CA",
         "country_region": "US",
-        "lat": 37.6017,
-        "long": -121.7195,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-alameda-county-ca.json"
     },
     {
         "location_id": "us-alaska",
         "province_state": "Alaska",
         "country_region": "US",
-        "lat": 61.3707,
-        "long": -152.4044,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-alaska.json"
     },
     {
-        "location_id": "us-anoka-mn",
-        "province_state": "Anoka, MN",
+        "location_id": "us-american-samoa",
+        "province_state": "American Samoa",
         "country_region": "US",
-        "lat": 45.3293,
-        "long": -93.2197,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-anoka-mn.json"
-    },
-    {
-        "location_id": "us-arapahoe-co",
-        "province_state": "Arapahoe, CO",
-        "country_region": "US",
-        "lat": 39.6203,
-        "long": -104.3326,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-arapahoe-co.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-american-samoa.json"
     },
     {
         "location_id": "us-arizona",
         "province_state": "Arizona",
         "country_region": "US",
-        "lat": 33.7298,
-        "long": -111.4312,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-arizona.json"
     },
     {
         "location_id": "us-arkansas",
         "province_state": "Arkansas",
         "country_region": "US",
-        "lat": 34.9697,
-        "long": -92.3731,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-arkansas.json"
     },
     {
-        "location_id": "us-arlington-va",
-        "province_state": "Arlington, VA",
+        "location_id": "us-ashland-ne",
+        "province_state": "Ashland, NE",
         "country_region": "US",
-        "lat": 38.8816,
-        "long": -77.09100000000002,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-arlington-va.json"
-    },
-    {
-        "location_id": "us-beadle-sd",
-        "province_state": "Beadle, SD",
-        "country_region": "US",
-        "lat": 44.4797,
-        "long": -98.2213,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-beadle-sd.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-ashland-ne.json"
     },
     {
         "location_id": "us-bennington-county-vt",
         "province_state": "Bennington County, VT",
         "country_region": "US",
-        "lat": 43.0279,
-        "long": -73.135,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-bennington-county-vt.json"
     },
     {
         "location_id": "us-bergen-county-nj",
         "province_state": "Bergen County, NJ",
         "country_region": "US",
-        "lat": 40.9263,
-        "long": -74.077,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-bergen-county-nj.json"
+    },
+    {
+        "location_id": "us-berkeley-ca",
+        "province_state": "Berkeley, CA",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-berkeley-ca.json"
     },
     {
         "location_id": "us-berkshire-county-ma",
         "province_state": "Berkshire County, MA",
         "country_region": "US",
-        "lat": 42.3118,
-        "long": -73.1822,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-berkshire-county-ma.json"
     },
     {
-        "location_id": "us-bernalillo-nm",
-        "province_state": "Bernalillo, NM",
+        "location_id": "us-boston-ma",
+        "province_state": "Boston, MA",
         "country_region": "US",
-        "lat": 35.0178,
-        "long": -106.6291,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-bernalillo-nm.json"
-    },
-    {
-        "location_id": "us-bon-homme-sd",
-        "province_state": "Bon Homme, SD",
-        "country_region": "US",
-        "lat": 42.9815,
-        "long": -97.8722,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-bon-homme-sd.json"
-    },
-    {
-        "location_id": "us-boone-in",
-        "province_state": "Boone, IN",
-        "country_region": "US",
-        "lat": 40.0106,
-        "long": -86.4997,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-boone-in.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-boston-ma.json"
     },
     {
         "location_id": "us-broward-county-fl",
         "province_state": "Broward County, FL",
         "country_region": "US",
-        "lat": 26.1901,
-        "long": -80.3659,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-broward-county-fl.json"
-    },
-    {
-        "location_id": "us-bucks-pa",
-        "province_state": "Bucks, PA",
-        "country_region": "US",
-        "lat": 40.4108,
-        "long": -75.2479,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-bucks-pa.json"
-    },
-    {
-        "location_id": "us-burlington-nj",
-        "province_state": "Burlington, NJ",
-        "country_region": "US",
-        "lat": 40.0712,
-        "long": -74.8649,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-burlington-nj.json"
-    },
-    {
-        "location_id": "us-calaveras-ca",
-        "province_state": "Calaveras, CA",
-        "country_region": "US",
-        "lat": 38.196,
-        "long": -120.6805,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-calaveras-ca.json"
     },
     {
         "location_id": "us-california",
         "province_state": "California",
         "country_region": "US",
-        "lat": 36.1162,
-        "long": -119.6816,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-california.json"
-    },
-    {
-        "location_id": "us-camden-nc",
-        "province_state": "Camden, NC",
-        "country_region": "US",
-        "lat": 34.2465,
-        "long": -80.607,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-camden-nc.json"
-    },
-    {
-        "location_id": "us-camden-nj",
-        "province_state": "Camden, NJ",
-        "country_region": "US",
-        "lat": 39.9259,
-        "long": -75.1196,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-camden-nj.json"
     },
     {
         "location_id": "us-carver-county-mn",
         "province_state": "Carver County, MN",
         "country_region": "US",
-        "lat": 44.8254,
-        "long": -93.7842,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-carver-county-mn.json"
-    },
-    {
-        "location_id": "us-charles-mix-sd",
-        "province_state": "Charles Mix, SD",
-        "country_region": "US",
-        "lat": 43.0985,
-        "long": -98.3965,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-charles-mix-sd.json"
     },
     {
         "location_id": "us-charleston-county-sc",
         "province_state": "Charleston County, SC",
         "country_region": "US",
-        "lat": 32.7957,
-        "long": -79.7848,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-charleston-county-sc.json"
     },
     {
         "location_id": "us-charlotte-county-fl",
         "province_state": "Charlotte County, FL",
         "country_region": "US",
-        "lat": 26.8946,
-        "long": -81.9098,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-charlotte-county-fl.json"
-    },
-    {
-        "location_id": "us-charlton-ga",
-        "province_state": "Charlton, GA",
-        "country_region": "US",
-        "lat": 30.7917,
-        "long": -82.0843,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-charlton-ga.json"
     },
     {
         "location_id": "us-chatham-county-nc",
         "province_state": "Chatham County, NC",
         "country_region": "US",
-        "lat": 35.7211,
-        "long": -79.1781,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-chatham-county-nc.json"
     },
     {
         "location_id": "us-cherokee-county-ga",
         "province_state": "Cherokee County, GA",
         "country_region": "US",
-        "lat": 34.2515,
-        "long": -84.4803,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-cherokee-county-ga.json"
+    },
+    {
+        "location_id": "us-chicago",
+        "province_state": "Chicago",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-chicago.json"
+    },
+    {
+        "location_id": "us-chicago-il",
+        "province_state": "Chicago, IL",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-chicago-il.json"
     },
     {
         "location_id": "us-clark-county-nv",
         "province_state": "Clark County, NV",
         "country_region": "US",
-        "lat": 36.0796,
-        "long": -115.094,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-clark-county-nv.json"
     },
     {
         "location_id": "us-clark-county-wa",
         "province_state": "Clark County, WA",
         "country_region": "US",
-        "lat": 45.7466,
-        "long": -122.5194,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-clark-county-wa.json"
     },
     {
         "location_id": "us-cobb-county-ga",
         "province_state": "Cobb County, GA",
         "country_region": "US",
-        "lat": 33.8999,
-        "long": -84.5641,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-cobb-county-ga.json"
-    },
-    {
-        "location_id": "us-collier-fl",
-        "province_state": "Collier, FL",
-        "country_region": "US",
-        "lat": 26.07,
-        "long": -81.4279,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-collier-fl.json"
     },
     {
         "location_id": "us-collin-county-tx",
         "province_state": "Collin County, TX",
         "country_region": "US",
-        "lat": 33.1795,
-        "long": -96.493,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-collin-county-tx.json"
     },
     {
         "location_id": "us-colorado",
         "province_state": "Colorado",
         "country_region": "US",
-        "lat": 39.0598,
-        "long": -105.3111,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-colorado.json"
     },
     {
         "location_id": "us-connecticut",
         "province_state": "Connecticut",
         "country_region": "US",
-        "lat": 41.5978,
-        "long": -72.7554,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-connecticut.json"
     },
     {
         "location_id": "us-contra-costa-county-ca",
         "province_state": "Contra Costa County, CA",
         "country_region": "US",
-        "lat": 37.8534,
-        "long": -121.9018,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-contra-costa-county-ca.json"
     },
     {
         "location_id": "us-cook-county-il",
         "province_state": "Cook County, IL",
         "country_region": "US",
-        "lat": 41.7377,
-        "long": -87.6976,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-cook-county-il.json"
-    },
-    {
-        "location_id": "us-cuyahoga-oh",
-        "province_state": "Cuyahoga, OH",
-        "country_region": "US",
-        "lat": 41.4339,
-        "long": -81.6758,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-cuyahoga-oh.json"
-    },
-    {
-        "location_id": "us-dallas-tx",
-        "province_state": "Dallas, TX",
-        "country_region": "US",
-        "lat": 32.7767,
-        "long": -96.797,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-dallas-tx.json"
-    },
-    {
-        "location_id": "us-dane-wi",
-        "province_state": "Dane, WI",
-        "country_region": "US",
-        "lat": 43.0186,
-        "long": -89.5498,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-dane-wi.json"
     },
     {
         "location_id": "us-davidson-county-tn",
         "province_state": "Davidson County, TN",
         "country_region": "US",
-        "lat": 36.1343,
-        "long": -86.822,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-davidson-county-tn.json"
     },
     {
         "location_id": "us-davis-county-ut",
         "province_state": "Davis County, UT",
         "country_region": "US",
-        "lat": 40.9629,
-        "long": -112.0953,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-davis-county-ut.json"
-    },
-    {
-        "location_id": "us-davison-sd",
-        "province_state": "Davison, SD",
-        "country_region": "US",
-        "lat": 43.7242,
-        "long": -98.2213,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-davison-sd.json"
-    },
-    {
-        "location_id": "us-dekalb-ga",
-        "province_state": "DeKalb, GA",
-        "country_region": "US",
-        "lat": 33.7956,
-        "long": -84.2279,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-dekalb-ga.json"
     },
     {
         "location_id": "us-delaware",
         "province_state": "Delaware",
         "country_region": "US",
-        "lat": 39.3185,
-        "long": -75.5071,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-delaware.json"
     },
     {
         "location_id": "us-delaware-county-pa",
         "province_state": "Delaware County, PA",
         "country_region": "US",
-        "lat": 39.9078,
-        "long": -75.3879,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-delaware-county-pa.json"
     },
     {
         "location_id": "us-denver-county-co",
         "province_state": "Denver County, CO",
         "country_region": "US",
-        "lat": 39.7392,
-        "long": -104.9903,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-denver-county-co.json"
-    },
-    {
-        "location_id": "us-deschutes-or",
-        "province_state": "Deschutes, OR",
-        "country_region": "US",
-        "lat": 43.8325,
-        "long": -121.2617,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-deschutes-or.json"
     },
     {
         "location_id": "us-diamond-princess",
         "province_state": "Diamond Princess",
         "country_region": "US",
-        "lat": 35.4437,
-        "long": 139.638,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-diamond-princess.json"
     },
     {
         "location_id": "us-district-of-columbia",
         "province_state": "District of Columbia",
         "country_region": "US",
-        "lat": 38.8974,
-        "long": -77.0268,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-district-of-columbia.json"
     },
     {
         "location_id": "us-douglas-county-co",
         "province_state": "Douglas County, CO",
         "country_region": "US",
-        "lat": 39.2587,
-        "long": -104.9389,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-douglas-county-co.json"
     },
     {
         "location_id": "us-douglas-county-ne",
         "province_state": "Douglas County, NE",
         "country_region": "US",
-        "lat": 41.3148,
-        "long": -96.1951,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-douglas-county-ne.json"
     },
     {
         "location_id": "us-douglas-county-or",
         "province_state": "Douglas County, OR",
         "country_region": "US",
-        "lat": 43.1261,
-        "long": -123.2492,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-douglas-county-or.json"
-    },
-    {
-        "location_id": "us-eagle-co",
-        "province_state": "Eagle, CO",
-        "country_region": "US",
-        "lat": 39.6553,
-        "long": -106.8287,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-eagle-co.json"
     },
     {
         "location_id": "us-el-paso-county-co",
         "province_state": "El Paso County, CO",
         "country_region": "US",
-        "lat": 38.9108,
-        "long": -104.4723,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-el-paso-county-co.json"
-    },
-    {
-        "location_id": "us-essex-ma",
-        "province_state": "Essex, MA",
-        "country_region": "US",
-        "lat": 42.632,
-        "long": -70.7829,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-essex-ma.json"
     },
     {
         "location_id": "us-fairfax-county-va",
         "province_state": "Fairfax County, VA",
         "country_region": "US",
-        "lat": 38.9085,
-        "long": -77.2405,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-fairfax-county-va.json"
     },
     {
-        "location_id": "us-fairfield-ct",
-        "province_state": "Fairfield, CT",
+        "location_id": "us-fairfield-county-ct",
+        "province_state": "Fairfield County, CT",
         "country_region": "US",
-        "lat": 41.256,
-        "long": -73.3709,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-fairfield-ct.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-fairfield-county-ct.json"
     },
     {
         "location_id": "us-fayette-county-ky",
         "province_state": "Fayette County, KY",
         "country_region": "US",
-        "lat": 38.0606,
-        "long": -84.4803,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-fayette-county-ky.json"
-    },
-    {
-        "location_id": "us-fayette-ga",
-        "province_state": "Fayette, GA",
-        "country_region": "US",
-        "lat": 33.4502,
-        "long": -84.4803,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-fayette-ga.json"
     },
     {
         "location_id": "us-florida",
         "province_state": "Florida",
         "country_region": "US",
-        "lat": 27.7663,
-        "long": -81.6868,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-florida.json"
     },
     {
-        "location_id": "us-floyd-ga",
-        "province_state": "Floyd, GA",
+        "location_id": "us-floyd-county-ga",
+        "province_state": "Floyd County, GA",
         "country_region": "US",
-        "lat": 37.5455,
-        "long": -82.7779,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-floyd-ga.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-floyd-county-ga.json"
     },
     {
         "location_id": "us-fort-bend-county-tx",
         "province_state": "Fort Bend County, TX",
         "country_region": "US",
-        "lat": 29.5693,
-        "long": -95.8143,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-fort-bend-county-tx.json"
     },
     {
         "location_id": "us-fresno-county-ca",
         "province_state": "Fresno County, CA",
         "country_region": "US",
-        "lat": 36.9859,
-        "long": -119.2321,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-fresno-county-ca.json"
     },
     {
         "location_id": "us-fulton-county-ga",
         "province_state": "Fulton County, GA",
         "country_region": "US",
-        "lat": 33.8034,
-        "long": -84.3963,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-fulton-county-ga.json"
     },
     {
         "location_id": "us-georgia",
         "province_state": "Georgia",
         "country_region": "US",
-        "lat": 33.0406,
-        "long": -83.6431,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-georgia.json"
     },
     {
         "location_id": "us-grafton-county-nh",
         "province_state": "Grafton County, NH",
         "country_region": "US",
-        "lat": 43.9088,
-        "long": -71.82600000000002,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-grafton-county-nh.json"
     },
     {
         "location_id": "us-grand-princess",
         "province_state": "Grand Princess",
         "country_region": "US",
-        "lat": 37.6489,
-        "long": -122.6655,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-grand-princess.json"
+    },
+    {
+        "location_id": "us-grand-princess-cruise-ship",
+        "province_state": "Grand Princess Cruise Ship",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-grand-princess-cruise-ship.json"
     },
     {
         "location_id": "us-grant-county-wa",
         "province_state": "Grant County, WA",
         "country_region": "US",
-        "lat": 47.1981,
-        "long": -119.3732,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-grant-county-wa.json"
-    },
-    {
-        "location_id": "us-gregg-tx",
-        "province_state": "Gregg, TX",
-        "country_region": "US",
-        "lat": 32.4893,
-        "long": -94.8521,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-gregg-tx.json"
     },
     {
         "location_id": "us-guam",
         "province_state": "Guam",
         "country_region": "US",
-        "lat": 13.4443,
-        "long": 144.7937,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-guam.json"
-    },
-    {
-        "location_id": "us-gunnison-co",
-        "province_state": "Gunnison, CO",
-        "country_region": "US",
-        "lat": 38.5458,
-        "long": -106.9253,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-gunnison-co.json"
-    },
-    {
-        "location_id": "us-gwinnett-ga",
-        "province_state": "Gwinnett, GA",
-        "country_region": "US",
-        "lat": 33.9191,
-        "long": -84.0167,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-gwinnett-ga.json"
-    },
-    {
-        "location_id": "us-hanover-va",
-        "province_state": "Hanover, VA",
-        "country_region": "US",
-        "lat": 37.7772,
-        "long": -77.5161,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-hanover-va.json"
     },
     {
         "location_id": "us-harford-county-md",
         "province_state": "Harford County, MD",
         "country_region": "US",
-        "lat": 39.5839,
-        "long": -76.3637,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-harford-county-md.json"
     },
     {
         "location_id": "us-harris-county-tx",
         "province_state": "Harris County, TX",
         "country_region": "US",
-        "lat": 29.7752,
-        "long": -95.3103,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-harris-county-tx.json"
     },
     {
         "location_id": "us-harrison-county-ky",
         "province_state": "Harrison County, KY",
         "country_region": "US",
-        "lat": 38.4333,
-        "long": -84.3542,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-harrison-county-ky.json"
     },
     {
         "location_id": "us-hawaii",
         "province_state": "Hawaii",
         "country_region": "US",
-        "lat": 21.0943,
-        "long": -157.4983,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-hawaii.json"
     },
     {
         "location_id": "us-hendricks-county-in",
         "province_state": "Hendricks County, IN",
         "country_region": "US",
-        "lat": 39.8065,
-        "long": -86.5401,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-hendricks-county-in.json"
     },
     {
         "location_id": "us-hillsborough-fl",
         "province_state": "Hillsborough, FL",
         "country_region": "US",
-        "lat": 27.9904,
-        "long": -82.3018,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-hillsborough-fl.json"
     },
     {
         "location_id": "us-honolulu-county-hi",
         "province_state": "Honolulu County, HI",
         "country_region": "US",
-        "lat": 21.307,
-        "long": -157.8584,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-honolulu-county-hi.json"
-    },
-    {
-        "location_id": "us-howard-in",
-        "province_state": "Howard, IN",
-        "country_region": "US",
-        "lat": 40.4483,
-        "long": -86.1345,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-howard-in.json"
     },
     {
         "location_id": "us-hudson-county-nj",
         "province_state": "Hudson County, NJ",
         "country_region": "US",
-        "lat": 40.7453,
-        "long": -74.0535,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-hudson-county-nj.json"
     },
     {
         "location_id": "us-humboldt-county-ca",
         "province_state": "Humboldt County, CA",
         "country_region": "US",
-        "lat": 40.745,
-        "long": -123.8695,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-humboldt-county-ca.json"
     },
     {
         "location_id": "us-idaho",
         "province_state": "Idaho",
         "country_region": "US",
-        "lat": 44.2405,
-        "long": -114.4788,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-idaho.json"
     },
     {
         "location_id": "us-illinois",
         "province_state": "Illinois",
         "country_region": "US",
-        "lat": 40.3495,
-        "long": -88.9861,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-illinois.json"
     },
     {
         "location_id": "us-indiana",
         "province_state": "Indiana",
         "country_region": "US",
-        "lat": 39.8494,
-        "long": -86.2583,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-indiana.json"
     },
     {
         "location_id": "us-iowa",
         "province_state": "Iowa",
         "country_region": "US",
-        "lat": 42.0115,
-        "long": -93.2105,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-iowa.json"
-    },
-    {
-        "location_id": "us-island-wa",
-        "province_state": "Island, WA",
-        "country_region": "US",
-        "lat": 48.1976,
-        "long": -122.5795,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-island-wa.json"
     },
     {
         "location_id": "us-jackson-county-or",
         "province_state": "Jackson County, OR",
         "country_region": "US",
-        "lat": 42.3345,
-        "long": -122.7647,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-jackson-county-or.json"
-    },
-    {
-        "location_id": "us-jefferson-co",
-        "province_state": "Jefferson, CO",
-        "country_region": "US",
-        "lat": 39.58,
-        "long": -105.2663,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-jefferson-co.json"
     },
     {
         "location_id": "us-jefferson-county-ky",
         "province_state": "Jefferson County, KY",
         "country_region": "US",
-        "lat": 38.1938,
-        "long": -85.6435,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-jefferson-county-ky.json"
     },
     {
         "location_id": "us-jefferson-county-wa",
         "province_state": "Jefferson County, WA",
         "country_region": "US",
-        "lat": 47.7425,
-        "long": -123.304,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-jefferson-county-wa.json"
     },
     {
         "location_id": "us-jefferson-parish-la",
         "province_state": "Jefferson Parish, LA",
         "country_region": "US",
-        "lat": 29.6499,
-        "long": -90.1121,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-jefferson-parish-la.json"
     },
     {
         "location_id": "us-johnson-county-ia",
         "province_state": "Johnson County, IA",
         "country_region": "US",
-        "lat": 41.6699,
-        "long": -91.5984,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-johnson-county-ia.json"
     },
     {
         "location_id": "us-johnson-county-ks",
         "province_state": "Johnson County, KS",
         "country_region": "US",
-        "lat": 38.8454,
-        "long": -94.8521,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-johnson-county-ks.json"
-    },
-    {
-        "location_id": "us-johnson-in",
-        "province_state": "Johnson, IN",
-        "country_region": "US",
-        "lat": 39.4638,
-        "long": -86.1345,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-johnson-in.json"
-    },
-    {
-        "location_id": "us-kane-il",
-        "province_state": "Kane, IL",
-        "country_region": "US",
-        "lat": 41.9879,
-        "long": -88.4016,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-kane-il.json"
     },
     {
         "location_id": "us-kansas",
         "province_state": "Kansas",
         "country_region": "US",
-        "lat": 38.5266,
-        "long": -96.7265,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-kansas.json"
     },
     {
         "location_id": "us-kentucky",
         "province_state": "Kentucky",
         "country_region": "US",
-        "lat": 37.6681,
-        "long": -84.6701,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-kentucky.json"
     },
     {
         "location_id": "us-kershaw-county-sc",
         "province_state": "Kershaw County, SC",
         "country_region": "US",
-        "lat": 34.3672,
-        "long": -80.5883,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-kershaw-county-sc.json"
     },
     {
         "location_id": "us-king-county-wa",
         "province_state": "King County, WA",
         "country_region": "US",
-        "lat": 47.6062,
-        "long": -122.3321,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-king-county-wa.json"
-    },
-    {
-        "location_id": "us-kitsap-wa",
-        "province_state": "Kitsap, WA",
-        "country_region": "US",
-        "lat": 47.6477,
-        "long": -122.6413,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-kitsap-wa.json"
     },
     {
         "location_id": "us-kittitas-county-wa",
         "province_state": "Kittitas County, WA",
         "country_region": "US",
-        "lat": 47.175,
-        "long": -120.9319,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-kittitas-county-wa.json"
     },
     {
         "location_id": "us-klamath-county-or",
         "province_state": "Klamath County, OR",
         "country_region": "US",
-        "lat": 42.6953,
-        "long": -121.6142,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-klamath-county-or.json"
     },
     {
-        "location_id": "us-knox-ne",
-        "province_state": "Knox, NE",
+        "location_id": "us-lackland-tx",
+        "province_state": "Lackland, TX",
         "country_region": "US",
-        "lat": 42.6712,
-        "long": -97.8722,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-knox-ne.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-lackland-tx.json"
     },
     {
-        "location_id": "us-lake-il",
-        "province_state": "Lake, IL",
+        "location_id": "us-lackland-tx-from-diamond-princess",
+        "province_state": "Lackland, TX (From Diamond Princess)",
         "country_region": "US",
-        "lat": 42.3689,
-        "long": -87.8272,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-lake-il.json"
-    },
-    {
-        "location_id": "us-lancaster-sc",
-        "province_state": "Lancaster, SC",
-        "country_region": "US",
-        "lat": 34.7253,
-        "long": -80.6771,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-lancaster-sc.json"
-    },
-    {
-        "location_id": "us-larimer-co",
-        "province_state": "Larimer, CO",
-        "country_region": "US",
-        "lat": 40.6956,
-        "long": -105.5943,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-larimer-co.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-lackland-tx-from-diamond-princess.json"
     },
     {
         "location_id": "us-lee-county-fl",
         "province_state": "Lee County, FL",
         "country_region": "US",
-        "lat": 26.663,
-        "long": -81.9535,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-lee-county-fl.json"
-    },
-    {
-        "location_id": "us-litchfield-ct",
-        "province_state": "Litchfield, CT",
-        "country_region": "US",
-        "lat": 41.7866,
-        "long": -73.2765,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-litchfield-ct.json"
     },
     {
         "location_id": "us-los-angeles-ca",
         "province_state": "Los Angeles, CA",
         "country_region": "US",
-        "lat": 34.0522,
-        "long": -118.2437,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-los-angeles-ca.json"
-    },
-    {
-        "location_id": "us-loudoun-va",
-        "province_state": "Loudoun, VA",
-        "country_region": "US",
-        "lat": 39.0768,
-        "long": -77.6536,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-loudoun-va.json"
     },
     {
         "location_id": "us-louisiana",
         "province_state": "Louisiana",
         "country_region": "US",
-        "lat": 31.1695,
-        "long": -91.8678,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-louisiana.json"
     },
     {
         "location_id": "us-madera-county-ca",
         "province_state": "Madera County, CA",
         "country_region": "US",
-        "lat": 37.2519,
-        "long": -119.6963,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-madera-county-ca.json"
+    },
+    {
+        "location_id": "us-madison-wi",
+        "province_state": "Madison, WI",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-madison-wi.json"
     },
     {
         "location_id": "us-maine",
         "province_state": "Maine",
         "country_region": "US",
-        "lat": 44.6939,
-        "long": -69.3819,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-maine.json"
     },
     {
         "location_id": "us-manatee-county-fl",
         "province_state": "Manatee County, FL",
         "country_region": "US",
-        "lat": 27.4799,
-        "long": -82.3452,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-manatee-county-fl.json"
     },
     {
         "location_id": "us-maricopa-county-az",
         "province_state": "Maricopa County, AZ",
         "country_region": "US",
-        "lat": 33.2918,
-        "long": -112.4291,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-maricopa-county-az.json"
-    },
-    {
-        "location_id": "us-marin-ca",
-        "province_state": "Marin, CA",
-        "country_region": "US",
-        "lat": 38.0834,
-        "long": -122.7633,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-marin-ca.json"
     },
     {
         "location_id": "us-marion-county-in",
         "province_state": "Marion County, IN",
         "country_region": "US",
-        "lat": 39.8362,
-        "long": -86.1752,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-marion-county-in.json"
     },
     {
         "location_id": "us-marion-county-or",
         "province_state": "Marion County, OR",
         "country_region": "US",
-        "lat": 44.8446,
-        "long": -122.5927,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-marion-county-or.json"
     },
     {
         "location_id": "us-maryland",
         "province_state": "Maryland",
         "country_region": "US",
-        "lat": 39.0639,
-        "long": -76.8021,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-maryland.json"
     },
     {
         "location_id": "us-massachusetts",
         "province_state": "Massachusetts",
         "country_region": "US",
-        "lat": 42.2302,
-        "long": -71.5301,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-massachusetts.json"
-    },
-    {
-        "location_id": "us-mchenry-il",
-        "province_state": "McHenry, IL",
-        "country_region": "US",
-        "lat": 42.3334,
-        "long": -88.2668,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-mchenry-il.json"
     },
     {
         "location_id": "us-michigan",
         "province_state": "Michigan",
         "country_region": "US",
-        "lat": 43.3266,
-        "long": -84.5361,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-michigan.json"
     },
     {
         "location_id": "us-middlesex-county-ma",
         "province_state": "Middlesex County, MA",
         "country_region": "US",
-        "lat": 42.4672,
-        "long": -71.2874,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-middlesex-county-ma.json"
-    },
-    {
-        "location_id": "us-middlesex-nj",
-        "province_state": "Middlesex, NJ",
-        "country_region": "US",
-        "lat": 40.5726,
-        "long": -74.4927,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-middlesex-nj.json"
-    },
-    {
-        "location_id": "us-minnehaha-sd",
-        "province_state": "Minnehaha, SD",
-        "country_region": "US",
-        "lat": 43.6632,
-        "long": -96.8351,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-minnehaha-sd.json"
     },
     {
         "location_id": "us-minnesota",
         "province_state": "Minnesota",
         "country_region": "US",
-        "lat": 45.6945,
-        "long": -93.9002,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-minnesota.json"
     },
     {
         "location_id": "us-mississippi",
         "province_state": "Mississippi",
         "country_region": "US",
-        "lat": 32.7416,
-        "long": -89.6787,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-mississippi.json"
     },
     {
         "location_id": "us-missouri",
         "province_state": "Missouri",
         "country_region": "US",
-        "lat": 38.4561,
-        "long": -92.2884,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-missouri.json"
-    },
-    {
-        "location_id": "us-monmouth-nj",
-        "province_state": "Monmouth, NJ",
-        "country_region": "US",
-        "lat": 40.2589,
-        "long": -74.124,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-monmouth-nj.json"
-    },
-    {
-        "location_id": "us-monroe-pa",
-        "province_state": "Monroe, PA",
-        "country_region": "US",
-        "lat": 41.0458,
-        "long": -75.2479,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-monroe-pa.json"
     },
     {
         "location_id": "us-montana",
         "province_state": "Montana",
         "country_region": "US",
-        "lat": 46.9219,
-        "long": -110.4544,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-montana.json"
     },
     {
         "location_id": "us-montgomery-county-md",
         "province_state": "Montgomery County, MD",
         "country_region": "US",
-        "lat": 39.1547,
-        "long": -77.2405,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-montgomery-county-md.json"
     },
     {
         "location_id": "us-montgomery-county-pa",
         "province_state": "Montgomery County, PA",
         "country_region": "US",
-        "lat": 40.229,
-        "long": -75.3879,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-montgomery-county-pa.json"
     },
     {
-        "location_id": "us-montgomery-tx",
-        "province_state": "Montgomery, TX",
+        "location_id": "us-montgomery-county-tx",
+        "province_state": "Montgomery County, TX",
         "country_region": "US",
-        "lat": 30.3883,
-        "long": -95.6963,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-montgomery-tx.json"
-    },
-    {
-        "location_id": "us-multnomah-or",
-        "province_state": "Multnomah, OR",
-        "country_region": "US",
-        "lat": 45.5146,
-        "long": -122.5863,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-multnomah-or.json"
-    },
-    {
-        "location_id": "us-napa-ca",
-        "province_state": "Napa, CA",
-        "country_region": "US",
-        "lat": 38.5025,
-        "long": -122.2654,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-napa-ca.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-montgomery-county-tx.json"
     },
     {
         "location_id": "us-nassau-county-ny",
         "province_state": "Nassau County, NY",
         "country_region": "US",
-        "lat": 40.6546,
-        "long": -73.5594,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-nassau-county-ny.json"
-    },
-    {
-        "location_id": "us-nassau-fl",
-        "province_state": "Nassau, FL",
-        "country_region": "US",
-        "lat": 30.5927,
-        "long": -81.8224,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-nassau-fl.json"
     },
     {
         "location_id": "us-nebraska",
         "province_state": "Nebraska",
         "country_region": "US",
-        "lat": 41.1254,
-        "long": -98.2681,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-nebraska.json"
     },
     {
         "location_id": "us-nevada",
         "province_state": "Nevada",
         "country_region": "US",
-        "lat": 38.3135,
-        "long": -117.0554,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-nevada.json"
-    },
-    {
-        "location_id": "us-new-castle-de",
-        "province_state": "New Castle, DE",
-        "country_region": "US",
-        "lat": 39.5393,
-        "long": -75.6674,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-new-castle-de.json"
     },
     {
         "location_id": "us-new-hampshire",
         "province_state": "New Hampshire",
         "country_region": "US",
-        "lat": 43.4525,
-        "long": -71.5639,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-new-hampshire.json"
     },
     {
         "location_id": "us-new-jersey",
         "province_state": "New Jersey",
         "country_region": "US",
-        "lat": 40.2989,
-        "long": -74.521,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-new-jersey.json"
     },
     {
         "location_id": "us-new-mexico",
         "province_state": "New Mexico",
         "country_region": "US",
-        "lat": 34.8405,
-        "long": -106.2485,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-new-mexico.json"
     },
     {
         "location_id": "us-new-york",
         "province_state": "New York",
         "country_region": "US",
-        "lat": 42.1657,
-        "long": -74.9481,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-new-york.json"
+    },
+    {
+        "location_id": "us-new-york-city-ny",
+        "province_state": "New York City, NY",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-new-york-city-ny.json"
     },
     {
         "location_id": "us-new-york-county-ny",
         "province_state": "New York County, NY",
         "country_region": "US",
-        "lat": 40.7128,
-        "long": -74.006,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-new-york-county-ny.json"
-    },
-    {
-        "location_id": "us-noble-in",
-        "province_state": "Noble, IN",
-        "country_region": "US",
-        "lat": 41.4277,
-        "long": -85.355,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-noble-in.json"
     },
     {
         "location_id": "us-norfolk-county-ma",
         "province_state": "Norfolk County, MA",
         "country_region": "US",
-        "lat": 42.1767,
-        "long": -71.1449,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-norfolk-county-ma.json"
-    },
-    {
-        "location_id": "us-norfolk-va",
-        "province_state": "Norfolk, VA",
-        "country_region": "US",
-        "lat": 36.8508,
-        "long": -76.2859,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-norfolk-va.json"
     },
     {
         "location_id": "us-north-carolina",
         "province_state": "North Carolina",
         "country_region": "US",
-        "lat": 35.6301,
-        "long": -79.8064,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-north-carolina.json"
     },
     {
         "location_id": "us-north-dakota",
         "province_state": "North Dakota",
         "country_region": "US",
-        "lat": 47.5289,
-        "long": -99.784,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-north-dakota.json"
     },
     {
-        "location_id": "us-oakland-mi",
-        "province_state": "Oakland, MI",
+        "location_id": "us-northern-mariana-islands",
+        "province_state": "Northern Mariana Islands",
         "country_region": "US",
-        "lat": 42.5922,
-        "long": -83.3362,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-oakland-mi.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-northern-mariana-islands.json"
+    },
+    {
+        "location_id": "us-norwell-county-ma",
+        "province_state": "Norwell County, MA",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-norwell-county-ma.json"
     },
     {
         "location_id": "us-ohio",
         "province_state": "Ohio",
         "country_region": "US",
-        "lat": 40.3888,
-        "long": -82.7649,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-ohio.json"
     },
     {
         "location_id": "us-okaloosa-county-fl",
         "province_state": "Okaloosa County, FL",
         "country_region": "US",
-        "lat": 30.5773,
-        "long": -86.6611,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-okaloosa-county-fl.json"
     },
     {
         "location_id": "us-oklahoma",
         "province_state": "Oklahoma",
         "country_region": "US",
-        "lat": 35.5653,
-        "long": -96.9289,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-oklahoma.json"
     },
     {
-        "location_id": "us-olmsted-mn",
-        "province_state": "Olmsted, MN",
+        "location_id": "us-omaha-ne-from-diamond-princess",
+        "province_state": "Omaha, NE (From Diamond Princess)",
         "country_region": "US",
-        "lat": 43.9952,
-        "long": -92.3814,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-olmsted-mn.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-omaha-ne-from-diamond-princess.json"
+    },
+    {
+        "location_id": "us-orange-ca",
+        "province_state": "Orange, CA",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-orange-ca.json"
     },
     {
         "location_id": "us-orange-county-ca",
         "province_state": "Orange County, CA",
         "country_region": "US",
-        "lat": 33.7879,
-        "long": -117.8531,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-orange-county-ca.json"
     },
     {
         "location_id": "us-oregon",
         "province_state": "Oregon",
         "country_region": "US",
-        "lat": 44.572,
-        "long": -122.0709,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-oregon.json"
-    },
-    {
-        "location_id": "us-orleans-la",
-        "province_state": "Orleans, LA",
-        "country_region": "US",
-        "lat": 29.9511,
-        "long": -90.0715,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-orleans-la.json"
-    },
-    {
-        "location_id": "us-pasco-fl",
-        "province_state": "Pasco, FL",
-        "country_region": "US",
-        "lat": 28.3232,
-        "long": -82.4319,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-pasco-fl.json"
-    },
-    {
-        "location_id": "us-passaic-nj",
-        "province_state": "Passaic, NJ",
-        "country_region": "US",
-        "lat": 40.8568,
-        "long": -74.1285,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-passaic-nj.json"
-    },
-    {
-        "location_id": "us-pennington-sd",
-        "province_state": "Pennington, SD",
-        "country_region": "US",
-        "lat": 43.8901,
-        "long": -102.2548,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-pennington-sd.json"
     },
     {
         "location_id": "us-pennsylvania",
         "province_state": "Pennsylvania",
         "country_region": "US",
-        "lat": 40.5908,
-        "long": -77.2098,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-pennsylvania.json"
-    },
-    {
-        "location_id": "us-philadelphia-pa",
-        "province_state": "Philadelphia, PA",
-        "country_region": "US",
-        "lat": 39.9526,
-        "long": -75.1652,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-philadelphia-pa.json"
     },
     {
         "location_id": "us-pierce-county-wa",
         "province_state": "Pierce County, WA",
         "country_region": "US",
-        "lat": 47.0676,
-        "long": -122.1295,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-pierce-county-wa.json"
-    },
-    {
-        "location_id": "us-pierce-wi",
-        "province_state": "Pierce, WI",
-        "country_region": "US",
-        "lat": 44.7509,
-        "long": -92.3814,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-pierce-wi.json"
-    },
-    {
-        "location_id": "us-pima-az",
-        "province_state": "Pima, AZ",
-        "country_region": "US",
-        "lat": 32.0575,
-        "long": -111.6661,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-pima-az.json"
     },
     {
         "location_id": "us-pinal-county-az",
         "province_state": "Pinal County, AZ",
         "country_region": "US",
-        "lat": 32.8162,
-        "long": -111.2845,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-pinal-county-az.json"
-    },
-    {
-        "location_id": "us-pinellas-fl",
-        "province_state": "Pinellas, FL",
-        "country_region": "US",
-        "lat": 27.8764,
-        "long": -82.7779,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-pinellas-fl.json"
     },
     {
         "location_id": "us-placer-county-ca",
         "province_state": "Placer County, CA",
         "country_region": "US",
-        "lat": 39.0916,
-        "long": -120.8039,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-placer-county-ca.json"
+    },
+    {
+        "location_id": "us-plymouth-county-ma",
+        "province_state": "Plymouth County, MA",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-plymouth-county-ma.json"
     },
     {
         "location_id": "us-polk-county-ga",
         "province_state": "Polk County, GA",
         "country_region": "US",
-        "lat": 34.0132,
-        "long": -85.1479,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-polk-county-ga.json"
     },
     {
-        "location_id": "us-polk-or",
-        "province_state": "Polk, OR",
+        "location_id": "us-portland-or",
+        "province_state": "Portland, OR",
         "country_region": "US",
-        "lat": 44.9267,
-        "long": -123.4919,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-polk-or.json"
-    },
-    {
-        "location_id": "us-pottawattamie-ia",
-        "province_state": "Pottawattamie, IA",
-        "country_region": "US",
-        "lat": 41.3912,
-        "long": -95.4778,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-pottawattamie-ia.json"
-    },
-    {
-        "location_id": "us-prince-george-s-md",
-        "province_state": "Prince George's, MD",
-        "country_region": "US",
-        "lat": 38.7849,
-        "long": -76.8721,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-prince-george-s-md.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-portland-or.json"
     },
     {
         "location_id": "us-providence-county-ri",
         "province_state": "Providence County, RI",
         "country_region": "US",
-        "lat": 41.8882,
-        "long": -71.4774,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-providence-county-ri.json"
+    },
+    {
+        "location_id": "us-providence-ri",
+        "province_state": "Providence, RI",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-providence-ri.json"
     },
     {
         "location_id": "us-puerto-rico",
         "province_state": "Puerto Rico",
         "country_region": "US",
-        "lat": 18.2208,
-        "long": -66.5901,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-puerto-rico.json"
+    },
+    {
+        "location_id": "us-queens-county-ny",
+        "province_state": "Queens County, NY",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-queens-county-ny.json"
     },
     {
         "location_id": "us-ramsey-county-mn",
         "province_state": "Ramsey County, MN",
         "country_region": "US",
-        "lat": 44.9964,
-        "long": -93.0616,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-ramsey-county-mn.json"
+    },
+    {
+        "location_id": "us-recovered",
+        "province_state": "Recovered",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-recovered.json"
     },
     {
         "location_id": "us-rhode-island",
         "province_state": "Rhode Island",
         "country_region": "US",
-        "lat": 41.6809,
-        "long": -71.5118,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-rhode-island.json"
     },
     {
         "location_id": "us-riverside-county-ca",
         "province_state": "Riverside County, CA",
         "country_region": "US",
-        "lat": 33.9533,
-        "long": -117.3961,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-riverside-county-ca.json"
     },
     {
         "location_id": "us-rockingham-county-nh",
         "province_state": "Rockingham County, NH",
         "country_region": "US",
-        "lat": 42.9931,
-        "long": -71.0498,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-rockingham-county-nh.json"
     },
     {
         "location_id": "us-rockland-county-ny",
         "province_state": "Rockland County, NY",
         "country_region": "US",
-        "lat": 41.1489,
-        "long": -73.983,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-rockland-county-ny.json"
     },
     {
         "location_id": "us-sacramento-county-ca",
         "province_state": "Sacramento County, CA",
         "country_region": "US",
-        "lat": 38.4747,
-        "long": -121.3542,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-sacramento-county-ca.json"
+    },
+    {
+        "location_id": "us-san-antonio-tx",
+        "province_state": "San Antonio, TX",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-san-antonio-tx.json"
     },
     {
         "location_id": "us-san-benito-ca",
         "province_state": "San Benito, CA",
         "country_region": "US",
-        "lat": 36.5761,
-        "long": -120.9876,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-san-benito-ca.json"
     },
     {
         "location_id": "us-san-diego-county-ca",
         "province_state": "San Diego County, CA",
         "country_region": "US",
-        "lat": 32.7157,
-        "long": -117.1611,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-san-diego-county-ca.json"
     },
     {
         "location_id": "us-san-francisco-county-ca",
         "province_state": "San Francisco County, CA",
         "country_region": "US",
-        "lat": 37.7749,
-        "long": -122.4194,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-san-francisco-county-ca.json"
-    },
-    {
-        "location_id": "us-san-joaquin-ca",
-        "province_state": "San Joaquin, CA",
-        "country_region": "US",
-        "lat": 36.6066,
-        "long": -120.189,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-san-joaquin-ca.json"
     },
     {
         "location_id": "us-san-mateo-ca",
         "province_state": "San Mateo, CA",
         "country_region": "US",
-        "lat": 37.563,
-        "long": -122.3255,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-san-mateo-ca.json"
+    },
+    {
+        "location_id": "us-santa-clara-ca",
+        "province_state": "Santa Clara, CA",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-santa-clara-ca.json"
     },
     {
         "location_id": "us-santa-clara-county-ca",
         "province_state": "Santa Clara County, CA",
         "country_region": "US",
-        "lat": 37.3541,
-        "long": -121.9552,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-santa-clara-county-ca.json"
     },
     {
-        "location_id": "us-santa-cruz-ca",
-        "province_state": "Santa Cruz, CA",
+        "location_id": "us-santa-cruz-county-ca",
+        "province_state": "Santa Cruz County, CA",
         "country_region": "US",
-        "lat": 37.0454,
-        "long": -121.958,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-santa-cruz-ca.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-santa-cruz-county-ca.json"
     },
     {
         "location_id": "us-santa-rosa-county-fl",
         "province_state": "Santa Rosa County, FL",
         "country_region": "US",
-        "lat": 30.769,
-        "long": -86.9824,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-santa-rosa-county-fl.json"
+    },
+    {
+        "location_id": "us-sarasota-fl",
+        "province_state": "Sarasota, FL",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-sarasota-fl.json"
     },
     {
         "location_id": "us-saratoga-county-ny",
         "province_state": "Saratoga County, NY",
         "country_region": "US",
-        "lat": 43.0324,
-        "long": -73.936,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-saratoga-county-ny.json"
+    },
+    {
+        "location_id": "us-seattle-wa",
+        "province_state": "Seattle, WA",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-seattle-wa.json"
     },
     {
         "location_id": "us-shasta-county-ca",
         "province_state": "Shasta County, CA",
         "country_region": "US",
-        "lat": 40.7909,
-        "long": -121.8474,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-shasta-county-ca.json"
     },
     {
         "location_id": "us-shelby-county-tn",
         "province_state": "Shelby County, TN",
         "country_region": "US",
-        "lat": 35.1269,
-        "long": -89.9253,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-shelby-county-tn.json"
-    },
-    {
-        "location_id": "us-skagit-wa",
-        "province_state": "Skagit, WA",
-        "country_region": "US",
-        "lat": 48.4242,
-        "long": -121.7114,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-skagit-wa.json"
     },
     {
         "location_id": "us-snohomish-county-wa",
         "province_state": "Snohomish County, WA",
         "country_region": "US",
-        "lat": 48.033,
-        "long": -121.8339,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-snohomish-county-wa.json"
-    },
-    {
-        "location_id": "us-socorro-nm",
-        "province_state": "Socorro, NM",
-        "country_region": "US",
-        "lat": 33.8837,
-        "long": -106.7235,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-socorro-nm.json"
-    },
-    {
-        "location_id": "us-solano-ca",
-        "province_state": "Solano, CA",
-        "country_region": "US",
-        "lat": 38.3105,
-        "long": -121.9018,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-solano-ca.json"
     },
     {
         "location_id": "us-sonoma-county-ca",
         "province_state": "Sonoma County, CA",
         "country_region": "US",
-        "lat": 38.578,
-        "long": -122.9888,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-sonoma-county-ca.json"
     },
     {
         "location_id": "us-south-carolina",
         "province_state": "South Carolina",
         "country_region": "US",
-        "lat": 33.8569,
-        "long": -80.945,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-south-carolina.json"
     },
     {
         "location_id": "us-south-dakota",
         "province_state": "South Dakota",
         "country_region": "US",
-        "lat": 44.2998,
-        "long": -99.4388,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-south-dakota.json"
     },
     {
         "location_id": "us-spartanburg-county-sc",
         "province_state": "Spartanburg County, SC",
         "country_region": "US",
-        "lat": 34.8606,
-        "long": -81.9535,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-spartanburg-county-sc.json"
     },
     {
-        "location_id": "us-spotsylvania-va",
-        "province_state": "Spotsylvania, VA",
+        "location_id": "us-spokane-county-wa",
+        "province_state": "Spokane County, WA",
         "country_region": "US",
-        "lat": 38.2042,
-        "long": -77.6078,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-spotsylvania-va.json"
-    },
-    {
-        "location_id": "us-st-joseph-in",
-        "province_state": "St. Joseph, IN",
-        "country_region": "US",
-        "lat": 41.6228,
-        "long": -86.3377,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-st-joseph-in.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-spokane-county-wa.json"
     },
     {
         "location_id": "us-st-louis-county-mo",
         "province_state": "St. Louis County, MO",
         "country_region": "US",
-        "lat": 38.6103,
-        "long": -90.4125,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-st-louis-county-mo.json"
-    },
-    {
-        "location_id": "us-stanislaus-ca",
-        "province_state": "Stanislaus, CA",
-        "country_region": "US",
-        "lat": 37.5091,
-        "long": -120.9876,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-stanislaus-ca.json"
-    },
-    {
-        "location_id": "us-stark-oh",
-        "province_state": "Stark, OH",
-        "country_region": "US",
-        "lat": 40.8685,
-        "long": -81.2519,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-stark-oh.json"
     },
     {
         "location_id": "us-suffolk-county-ma",
         "province_state": "Suffolk County, MA",
         "country_region": "US",
-        "lat": 42.3601,
-        "long": -71.0589,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-suffolk-county-ma.json"
     },
     {
         "location_id": "us-suffolk-county-ny",
         "province_state": "Suffolk County, NY",
         "country_region": "US",
-        "lat": 40.9849,
-        "long": -72.6151,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-suffolk-county-ny.json"
-    },
-    {
-        "location_id": "us-sullivan-tn",
-        "province_state": "Sullivan, TN",
-        "country_region": "US",
-        "lat": 36.4933,
-        "long": -82.3452,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-sullivan-tn.json"
     },
     {
         "location_id": "us-summit-county-co",
         "province_state": "Summit County, CO",
         "country_region": "US",
-        "lat": 39.5912,
-        "long": -106.064,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-summit-county-co.json"
     },
     {
-        "location_id": "us-summit-ut",
-        "province_state": "Summit, UT",
+        "location_id": "us-tempe-az",
+        "province_state": "Tempe, AZ",
         "country_region": "US",
-        "lat": 40.8298,
-        "long": -110.9984,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-summit-ut.json"
-    },
-    {
-        "location_id": "us-tarrant-tx",
-        "province_state": "Tarrant, TX",
-        "country_region": "US",
-        "lat": 32.7732,
-        "long": -97.3517,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-tarrant-tx.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-tempe-az.json"
     },
     {
         "location_id": "us-tennessee",
         "province_state": "Tennessee",
         "country_region": "US",
-        "lat": 35.7478,
-        "long": -86.6923,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-tennessee.json"
     },
     {
         "location_id": "us-texas",
         "province_state": "Texas",
         "country_region": "US",
-        "lat": 31.0545,
-        "long": -97.5635,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-texas.json"
     },
     {
-        "location_id": "us-thurston-wa",
-        "province_state": "Thurston, WA",
+        "location_id": "us-travis-ca",
+        "province_state": "Travis, CA",
         "country_region": "US",
-        "lat": 46.8646,
-        "long": -122.7696,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-thurston-wa.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-travis-ca.json"
+    },
+    {
+        "location_id": "us-travis-ca-from-diamond-princess",
+        "province_state": "Travis, CA (From Diamond Princess)",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-travis-ca-from-diamond-princess.json"
     },
     {
         "location_id": "us-tulsa-county-ok",
         "province_state": "Tulsa County, OK",
         "country_region": "US",
-        "lat": 36.1593,
-        "long": -95.941,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-tulsa-county-ok.json"
     },
     {
         "location_id": "us-ulster-county-ny",
         "province_state": "Ulster County, NY",
         "country_region": "US",
-        "lat": 41.8586,
-        "long": -74.3118,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-ulster-county-ny.json"
     },
     {
         "location_id": "us-umatilla-or",
         "province_state": "Umatilla, OR",
         "country_region": "US",
-        "lat": 45.775,
-        "long": -118.7606,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-umatilla-or.json"
     },
     {
-        "location_id": "us-union-nj",
-        "province_state": "Union, NJ",
+        "location_id": "us-unassigned-location-from-diamond-princess",
+        "province_state": "Unassigned Location (From Diamond Princess)",
         "country_region": "US",
-        "lat": 40.6976,
-        "long": -74.2632,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-union-nj.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-unassigned-location-from-diamond-princess.json"
+    },
+    {
+        "location_id": "us-unassigned-location-vt",
+        "province_state": "Unassigned Location, VT",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-unassigned-location-vt.json"
+    },
+    {
+        "location_id": "us-unassigned-location-wa",
+        "province_state": "Unassigned Location, WA",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-unassigned-location-wa.json"
     },
     {
         "location_id": "us-united-states-virgin-islands",
         "province_state": "United States Virgin Islands",
         "country_region": "US",
-        "lat": 18.3358,
-        "long": -64.8963,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-united-states-virgin-islands.json"
+    },
+    {
+        "location_id": "us-unknown-location-ma",
+        "province_state": "Unknown Location, MA",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-unknown-location-ma.json"
     },
     {
         "location_id": "us-us",
         "province_state": "US",
         "country_region": "US",
-        "lat": 37.0902,
-        "long": -95.7129,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-us.json"
     },
     {
         "location_id": "us-utah",
         "province_state": "Utah",
         "country_region": "US",
-        "lat": 40.15,
-        "long": -111.8624,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-utah.json"
-    },
-    {
-        "location_id": "us-ventura-ca",
-        "province_state": "Ventura, CA",
-        "country_region": "US",
-        "lat": 34.3705,
-        "long": -119.1391,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-ventura-ca.json"
     },
     {
         "location_id": "us-vermont",
         "province_state": "Vermont",
         "country_region": "US",
-        "lat": 44.0459,
-        "long": -72.7107,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-vermont.json"
     },
     {
         "location_id": "us-virgin-islands",
         "province_state": "Virgin Islands",
         "country_region": "US",
-        "lat": 18.3358,
-        "long": -64.8963,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-virgin-islands.json"
+    },
+    {
+        "location_id": "us-virgin-islands-u-s",
+        "province_state": "Virgin Islands, U.S.",
+        "country_region": "US",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-virgin-islands-u-s.json"
     },
     {
         "location_id": "us-virginia",
         "province_state": "Virginia",
         "country_region": "US",
-        "lat": 37.7693,
-        "long": -78.17,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-virginia.json"
     },
     {
         "location_id": "us-volusia-county-fl",
         "province_state": "Volusia County, FL",
         "country_region": "US",
-        "lat": 29.028,
-        "long": -81.0755,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-volusia-county-fl.json"
     },
     {
         "location_id": "us-wake-county-nc",
         "province_state": "Wake County, NC",
         "country_region": "US",
-        "lat": 35.8032,
-        "long": -78.5661,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-wake-county-nc.json"
     },
     {
         "location_id": "us-washington",
         "province_state": "Washington",
         "country_region": "US",
-        "lat": 47.4009,
-        "long": -121.4905,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-washington.json"
     },
     {
         "location_id": "us-washington-county-or",
         "province_state": "Washington County, OR",
         "country_region": "US",
-        "lat": 45.547,
-        "long": -123.1386,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-washington-county-or.json"
     },
     {
         "location_id": "us-washington-d-c",
         "province_state": "Washington, D.C.",
         "country_region": "US",
-        "lat": 38.9072,
-        "long": -77.0369,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-washington-d-c.json"
     },
     {
         "location_id": "us-washoe-county-nv",
         "province_state": "Washoe County, NV",
         "country_region": "US",
-        "lat": 40.5608,
-        "long": -119.6035,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-washoe-county-nv.json"
     },
     {
         "location_id": "us-wayne-county-pa",
         "province_state": "Wayne County, PA",
         "country_region": "US",
-        "lat": 41.6739,
-        "long": -75.2479,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-wayne-county-pa.json"
-    },
-    {
-        "location_id": "us-wayne-mi",
-        "province_state": "Wayne, MI",
-        "country_region": "US",
-        "lat": 42.2791,
-        "long": -83.3362,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-wayne-mi.json"
-    },
-    {
-        "location_id": "us-weber-ut",
-        "province_state": "Weber, UT",
-        "country_region": "US",
-        "lat": 41.2603,
-        "long": -111.9522,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-weber-ut.json"
     },
     {
         "location_id": "us-west-virginia",
         "province_state": "West Virginia",
         "country_region": "US",
-        "lat": 38.4912,
-        "long": -80.9545,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-west-virginia.json"
     },
     {
         "location_id": "us-westchester-county-ny",
         "province_state": "Westchester County, NY",
         "country_region": "US",
-        "lat": 41.122,
-        "long": -73.7949,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-westchester-county-ny.json"
-    },
-    {
-        "location_id": "us-whatcom-wa",
-        "province_state": "Whatcom, WA",
-        "country_region": "US",
-        "lat": 48.8787,
-        "long": -121.9719,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-whatcom-wa.json"
     },
     {
         "location_id": "us-williamson-county-tn",
         "province_state": "Williamson County, TN",
         "country_region": "US",
-        "lat": 35.9179,
-        "long": -86.8622,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-williamson-county-tn.json"
     },
     {
         "location_id": "us-wisconsin",
         "province_state": "Wisconsin",
         "country_region": "US",
-        "lat": 44.2685,
-        "long": -89.6165,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-wisconsin.json"
     },
     {
-        "location_id": "us-worcester-ma",
-        "province_state": "Worcester, MA",
+        "location_id": "us-wuhan-evacuee",
+        "province_state": "Wuhan Evacuee",
         "country_region": "US",
-        "lat": 42.4097,
-        "long": -71.8571,
-        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-worcester-ma.json"
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-wuhan-evacuee.json"
     },
     {
         "location_id": "us-wyoming",
         "province_state": "Wyoming",
         "country_region": "US",
-        "lat": 42.756,
-        "long": -107.3025,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-wyoming.json"
     },
     {
         "location_id": "us-yolo-county-ca",
         "province_state": "Yolo County, CA",
         "country_region": "US",
-        "lat": 38.7646,
-        "long": -121.9018,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/us-yolo-county-ca.json"
     },
     {
         "location_id": "uzbekistan",
         "province_state": "",
         "country_region": "Uzbekistan",
-        "lat": 41.3775,
-        "long": 64.5853,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/uzbekistan.json"
+    },
+    {
+        "location_id": "vatican-city",
+        "province_state": "",
+        "country_region": "Vatican City",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/vatican-city.json"
     },
     {
         "location_id": "venezuela",
         "province_state": "",
         "country_region": "Venezuela",
-        "lat": 6.4238,
-        "long": -66.5897,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/venezuela.json"
+    },
+    {
+        "location_id": "viet-nam",
+        "province_state": "",
+        "country_region": "Viet Nam",
+        "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/viet-nam.json"
     },
     {
         "location_id": "vietnam",
         "province_state": "",
         "country_region": "Vietnam",
-        "lat": 16.0,
-        "long": 108.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/vietnam.json"
     },
     {
         "location_id": "zambia",
         "province_state": "",
         "country_region": "Zambia",
-        "lat": -15.4167,
-        "long": 28.2833,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/zambia.json"
     },
     {
         "location_id": "zimbabwe",
         "province_state": "",
         "country_region": "Zimbabwe",
-        "lat": -20.0,
-        "long": 30.0,
         "cloud_resource": "https://thecodinginterface-covid.s3.amazonaws.com/zimbabwe.json"
     }
 ]
