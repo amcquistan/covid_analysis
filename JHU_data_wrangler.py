@@ -248,7 +248,7 @@ daily_df.head(10)
 # whole_country_df.head(10)
 
 
-# In[18]:
+# In[25]:
 
 
 # daily_df = pd.concat([daily_df, whole_country_df])
@@ -260,6 +260,15 @@ daily_df['location_id'] = [slugify_location(country_region, province_state)
 # sort by country_region, province_state, date
 daily_df = daily_df.sort_values(['country_region', 'province_state', 'date'])
 daily_df[(daily_df.country_region == 'US') & (daily_df.province_state == 'New York')]
+
+
+# In[44]:
+
+
+entry_counts = daily_df.groupby('location_id').count().sort_values('date')
+entry_counts = entry_counts[entry_counts.date < 6]
+for loc_id in entry_counts.index.values:
+    daily_df = daily_df[daily_df.location_id != loc_id]
 
 
 # In[19]:
