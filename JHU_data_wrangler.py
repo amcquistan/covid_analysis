@@ -209,12 +209,14 @@ for file_name in daily_csv_files:
 
     missing_columns = sum([(col not in day_df.columns) for col in colunns_of_interest])
     if missing_columns:
-        import pdb; pdb.set_trace()
+        print('Missing Columns!!!!')
         sys.exit(0)
 
     whole_country_df = day_df[colunns_of_interest].groupby(['country_region']).sum()
     whole_country_df = whole_country_df.reset_index()
     whole_country_df['province_state'] = [''] * whole_country_df.shape[0]
+    whole_country_df['date'] = [day_df.date.values[0]] * whole_country_df.shape[0]
+    whole_country_df.loc[whole_country_df['country_region'] == 'US', ['country_region']] = 'United States'
         
     if 'Admin2' in day_df.columns:
         county_df = day_df[day_df.Admin2 != '']
@@ -242,13 +244,19 @@ daily_df.head(10)
 # In[17]:
 
 
+daily_df[daily_df['country_region'] == 'United States'].sort_values('date')
+
+
+# In[18]:
+
+
 # whole_country_df = daily_df.groupby(['country_region', 'date']).sum()
 # whole_country_df = whole_country_df.reset_index()
 # whole_country_df['province_state'] = [''] * whole_country_df.shape[0]
 # whole_country_df.head(10)
 
 
-# In[25]:
+# In[19]:
 
 
 # daily_df = pd.concat([daily_df, whole_country_df])
@@ -262,16 +270,16 @@ daily_df = daily_df.sort_values(['country_region', 'province_state', 'date'])
 daily_df[(daily_df.country_region == 'US') & (daily_df.province_state == 'New York')]
 
 
-# In[44]:
+# In[20]:
 
 
 entry_counts = daily_df.groupby('location_id').count().sort_values('date')
-entry_counts = entry_counts[entry_counts.date < 6]
+entry_counts = entry_counts[entry_counts.date < 20]
 for loc_id in entry_counts.index.values:
     daily_df = daily_df[daily_df.location_id != loc_id]
 
 
-# In[19]:
+# In[21]:
 
 
 # get totals per location
@@ -290,7 +298,7 @@ location_totals_df['recovery_rate'] = location_totals_df.total_recovered / locat
 location_totals_df.sort_values('total_confirmed', ascending=False).head(10)
 
 
-# In[20]:
+# In[22]:
 
 
 # get totals per country / region
@@ -308,7 +316,7 @@ location_totals_df.sort_values('total_confirmed', ascending=False).head(10)
 # country_totals_df.sort_values('country_region').head(25)
 
 
-# In[21]:
+# In[23]:
 
 
 # world_population_df = pd.read_csv('world_population.csv')
@@ -316,7 +324,7 @@ location_totals_df.sort_values('total_confirmed', ascending=False).head(10)
 # world_population_df.head()
 
 
-# In[22]:
+# In[24]:
 
 
 # # add population data to country totals
@@ -324,13 +332,13 @@ location_totals_df.sort_values('total_confirmed', ascending=False).head(10)
 # country_totals_df.head(20)
 
 
-# In[20]:
+# In[25]:
 
 
 daily_df[(daily_df.country_region == 'US') & (daily_df.location_id == 'us-new-york-city-new-york')]
 
 
-# In[21]:
+# In[26]:
 
 
 # group by location and serialize each location dataset to a json file
@@ -349,6 +357,8 @@ if not os.path.exists(location_case_data):
     os.mkdir(location_case_data)
 
 location_groups = daily_df.groupby(['location_id'])
+groups = len(location_groups)
+i = 1
 for location_id, location_data in location_groups:
     location_data = location_data.sort_values('date')
     location_data.loc[:,'daily_confirmed'] = calc_differential(location_data.total_confirmed)
@@ -368,11 +378,15 @@ for location_id, location_data in location_groups:
 
     with open(file_path, 'w') as fo:
         json.dump(location_days, fo, indent=4)
+    
+    if i % 100 == 0:
+        print(f"Uploading {location_id} {i} of {groups}")
+    i += 1
 
     s3_url = upload_file_to_s3(s3_bucket, file_path, filename)
 
 
-# In[22]:
+# In[27]:
 
 
 # locations_df.head(25)
@@ -380,7 +394,7 @@ for location_id, location_data in location_groups:
 # locations_df.head()
 
 
-# In[23]:
+# In[28]:
 
 
 locations_df = daily_df[['location_id', 'province_state', 'country_region']].drop_duplicates()
@@ -389,13 +403,13 @@ locations_df['cloud_resource'] = [cloud_resource_url(location_id, bucket_name)
 locations_df.head()
 
 
-# In[24]:
+# In[29]:
 
 
 locations_df[locations_df.province_state == 'Nebraska']
 
 
-# In[25]:
+# In[ ]:
 
 
 # create a list of dicts in the form:
